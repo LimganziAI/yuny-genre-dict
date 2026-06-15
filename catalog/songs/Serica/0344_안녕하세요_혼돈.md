@@ -6,7 +6,120 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model  · key — · bpm — · ▶0 ♥0 · id `44202019`
+
+*Style/Prompt (tags):*
+```
+This is a high-energy K-pop rock track with a driving tempo of 180 beats per minute. The song is in the key of E minor. It features a female lead vocalist with a powerful, clear voice, often employing a belting technique. The instrumentation includes a full drum kit with prominent kick and snare, a distorted electric guitar providing rhythmic riffs and melodic lines, and a bass guitar laying down a solid foundation. Synthesizers are used for atmospheric pads and arpeggiated melodies, adding a modern electronic texture. The song structure follows a typical verse-chorus format with a pre-chorus build-up and a bridge that introduces a slight dynamic shift before returning to a powerful final chorus. Production is clean and punchy, with a wide stereo image and a strong emphasis on the lead vocal. The guitar solos are short and impactful, complementing the vocal melody rather than dominating. The overall feel is anthemic and empowering.
+```
+
+*Lyrics+cues:*
+```
+[Verse 1]
+이 정갈한 유리벽은
+세상을 비추는 거울이었죠
+저 너머에 비쳐 보이는 풍경은
+나와는 무관한 일이라 믿었어요
+갈망했으면서도
+
+[Pre-Chorus]
+답답한 멜로디 정해진 하모니
+시끄러 전부 다 부숴버릴 거야
+이 문은 왜 잠겼어 저 창들은 왜 막았어 몰라
+그냥 깔리고 부딪칠래
+재미없는 그림 정해진 프레임
+발로 뻥 차버리고
+굴러다닐 거야
+
+[Chorus]
+(아)
+박살났어 세상이 쏟아져서 나와
+네가 부순 거야 이 차디찬
+(It's the end)
+이 균열이 깨졌어요
+이 균열
+그래 완벽한 벽은 꿈의 무덤이었죠
+안녕 하세요 혼돈
+푸른색아 날아
+
+[Verse 2]
+세상이 지겹은 이제 잊어버릴래
+이 소음 이 속도 알 수 없던 모든 것
+날개가 묶인 건 어제의 나였어
+
+[Pre-Chorus]
+다 부서져도 이젠 웃음이 나
+이 리듬의 속도에 몸을 맡겨볼래
+그래 더 세게
+이 균열이 멈추지가 않아
+
+[Chorus]
+박살났어 세상이 쏟아져서 나와
+네가 부순 거야 이 차디찬
+(It's the end)
+이 균열이 깨졌어요
+이 균열
+그래 완벽한 벽은 꿈의 무덤이었어
+만나서 반가워 혼돈
+푸른색아 날아
+
+[Bridge]
+이토록 어지럽고 이토록 눈부셔
+닫혀있던 감각이 폭풍 속에 깨어나
+더는 완벽한 내가 아니야
+이게 진짜 나였어
+
+[Guitar Solo]
+
+[Chorus]
+(박살났어)
+박살났어 세상이 쏟아져서 나와
+(박살났어)
+네가 부순 거야 이 차디찬
+(It's the end)
+이 균열이 깨졌어요
+(It's the end)
+그래 완벽한 벽은 꿈의 무덤이었어
+(It's the end)
+만나서 반가워 혼돈
+(It's the end)
+푸른색아 날아
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+(아)
+(박살났어)
+```
 
 **COVER (skin/final)** · `cover` · model v4.5-all · key — · bpm — · ▶0 ♥0 · id `0654e75b`
 

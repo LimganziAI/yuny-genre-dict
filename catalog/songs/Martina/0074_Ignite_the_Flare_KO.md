@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `7170d186`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `7170d186`
 
 *Style/Prompt (tags):*
 ```
@@ -123,4 +119,6 @@ Baila conmigo, 멈추지 마
 That's right.
 Báilame.
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

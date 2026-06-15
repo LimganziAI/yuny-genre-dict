@@ -6,11 +6,11 @@
 
 ---
 
-**CREATE (bone)** · `cover` · model v5 · key F_minor · bpm 88.04 · ▶3 ♥1 👍liked · id `272ee8c2`
+**CREATE (bone)** · `create` · model v5 · key F_minor · bpm 88.01 · ▶5 ♥0 · id `0747a86c`
 
 *Style/Prompt (tags):*
 ```
-**Instrumentation:** Pizzicato String Section (Plucking Sound), Magical Celesta & Music Box Melody (Minor Key), Deep Sub-bass, Bright Sleigh Bells hitting on the snare, Rhythmic Card Shuffling & Poker Chip Clicking FX. **Production:** Dry Mix, Cinematic Spy Thriller feel, Vocal front and center. **Vocal Style:** CRUCIAL VOCAL INSTRUCTION: The song is for a SOLO female vocalist with a seductive, controlled, and low-energy voice. Her delivery is almost monotone and spoken-like, with minimal vibrato, recorded in a close-mic, intimate style. She MUST avoid high notes and emotional belting completely. In the chorus, her voice doesn't get higher, but gains a sharp, assertive, and rhythmic edge. **Atmosphere:** Gothic Christmas, Midnight Casino, Stylish and Cold.
+**Genre:**groove,  Modern Blues Rock Rhythm, Dark Pop, Stomp and Clap. **Rhythm:** Heavy "Heartbeat" Kick Drum (Deep & Punchy), Aggressive Breakbeat Fills, Rhythmic Handclaps, Stop-and-Go Rhythm (Pauses). **Melody:** Strong Catchy Hook, Bluesy Melody (Not Rap), Staccato Phrasing. **Vocal Style:** CRUCIAL VOCAL INSTRUCTION: The song is for a SOLO female vocalist with a seductive, controlled, and low-energy voice. Her delivery is almost monotone and spoken-like, with minimal vibrato, recorded in a close-mic, intimate style. She MUST avoid high notes and emotional belting completely. In the chorus, her voice doesn't get higher, but gains a sharp, assertive, and rhythmic edge. **Vibe:** Cinematic, Cool, Dangerous.
 ```
 
 *Lyrics+cues:*
@@ -163,8 +163,6 @@ Merry Christmas... 이 판은 너희가 이겼어.
 
 [Door closes]
 ```
-
-↳ cover_clip_id: `0747a86c` (원본 메타 보유)
 
 **COVER (skin/final)** · `cover` · model v5 · key F_minor · bpm 88.02 · ▶2 ♥0 · id `f3c1c9db`
 

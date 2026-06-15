@@ -6,11 +6,11 @@
 
 ---
 
-**CREATE (bone)** · `create` · model  · key — · bpm — · ▶1 ♥0 · id `4cf2023b`
+**CREATE (bone)** · `create` · model  · key — · bpm — · ▶2 ♥0 · id `60803c1d`
 
 *Style/Prompt (tags):*
 ```
-This is a cheerful, upbeat pop song with a driving tempo of approximately 120 BPM in a major key. The instrumentation includes a ukulele playing a consistent rhythmic strumming pattern, a bass guitar providing a walking bass line, and a drum kit with a standard pop beat featuring kick, snare, and hi-hat. There are also synth pads providing atmospheric backing. The lead female vocal is clear and bright, with a youthful quality, often harmonized with backing vocals. The song structure follows a typical verse-chorus format with a bridge and an outro. The melody is catchy and memorable, with a relatively narrow vocal range. Production elements include a clean mix with a slight reverb on the vocals and a bright, airy feel.
+This is a Korean pop song with a bright and whimsical feel, featuring a female vocalist. The instrumentation includes a ukulele, a light drum kit with brushes, a bass guitar, and a piano. The song is in a major key and has a moderate tempo. The vocal melody is clear and often uses a call-and-response structure with backing vocals. The song structure follows a typical pop format with verses, a pre-chorus, a chorus, and a bridge. The production is clean with a focus on the acoustic instruments and the lead vocal. There are no heavy effects, maintaining a natural and airy sound. The ukulele provides a consistent rhythmic and harmonic foundation. The drum kit uses light percussion, emphasizing the playful nature of the song. The bass guitar provides a simple, supportive line. The piano adds melodic fills and harmonic richness. The lead female vocal is clear and youthful, with occasional layered harmonies in the chorus and bridge sections. The overall mood is cheerful and uplifting.
 ```
 
 *Lyrics+cues:*
@@ -18,7 +18,7 @@ This is a cheerful, upbeat pop song with a driving tempo of approximately 120 BP
 [Verse 1]
 아무도 모르게 살금살금
 우리들의 작은 파티를 시작해 볼까
-어질러진 것 시부얀 먼지 위로
+어질러진 거실 보얀 먼지 위로
 햇살이 내려와 반짝이는 걸
 도와주고 싶은데 말을 걸 용기가 없어
 나는 아직 조금은 겁이 나는 걸
@@ -26,8 +26,8 @@ This is a cheerful, upbeat pop song with a driving tempo of approximately 120 BP
 자 얘들아 이제 너희들이 나설 차례야
 
 [Chorus]
-실뭉치 토끼들아 먼지를 닦아줘
-단추 눈 곰 인형아 책들을 정리해
+실뭉치 토끼들아 먼지를 닦아줘 (싹싹싹)
+단추 눈 곰인형아 책들을 정리해 (차곡차곡)
 내가 아닌 너희들이라면 용감해질 수 있는 걸
 모두의 기쁜 얼굴 상상하면 행복해지니까
 
@@ -40,8 +40,8 @@ This is a cheerful, upbeat pop song with a driving tempo of approximately 120 BP
 자 얘들아 이제 다 함께 노래할 차례야
 
 [Chorus]
-실뭉치 토끼들아 먼지를 닦아줘
-단추 눈 곰 인형아 책들을 정리해
+실뭉치 토끼들아 먼지를 닦아줘 (싹싹싹)
+단추 눈 곰인형아 책들을 정리해 (차곡차곡)
 내가 아닌 너희들이라면 용감해질 수 있는 걸
 모두의 기쁜 얼굴 상상하면 행복해지니까
 
@@ -50,13 +50,13 @@ This is a cheerful, upbeat pop song with a driving tempo of approximately 120 BP
 고마워 그 한마디를 내 목소리로 말하고 싶어
 
 [Chorus]
-실뭉치 토끼들아 창문을 열어줘
-단추 눈 곰 인형아 햇살을 담아줘
+실뭉치 토끼들아 창문을 열어줘 (활짝)
+단추 눈 곰인형아 햇살을 담아줘 (가득)
 언젠가 나도 너희들과 함께 노래할 수 있기를
 모두의 기쁜 얼굴 상상하면 행복해지니까
 
 [Outro]
-반짝 반짝 기숙사 임무 완료
+반짝반짝 기숙사 임무 완료
 고마워 나의 작은 친구들
 ```
 

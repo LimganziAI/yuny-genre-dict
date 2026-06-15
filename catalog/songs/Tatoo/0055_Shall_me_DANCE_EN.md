@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `dd0cf035`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `dd0cf035`
 
 *Style/Prompt (tags):*
 ```
@@ -102,4 +98,6 @@ Jack and me, we're the only ones there
 [Ad-libs: Keep up, Jack!]
 [Fade out]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

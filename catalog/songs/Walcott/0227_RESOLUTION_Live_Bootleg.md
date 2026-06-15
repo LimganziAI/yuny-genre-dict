@@ -6,7 +6,173 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶1 ♥0 · id `53c1906a`
+
+*Style/Prompt (tags):*
+```
+Live Concert Recording, Crowd Noise, Audience Cheering, aggressive scratch, turntable, An extremely upbeat, chaotic Electro-Garage Punk & Big Beat fusion, Features Distorted Heavy Guitar Riffs mixed with cheesy Trot synths, Distorted Bagpipes, Aggressive Brass Section, Tubular Bells, powerful punchy Industrial Drum loops, fast tempo (175 BPM), Crisp Mixing, Clear instrument separation, Dynamic drops, Follows a STRICT 5-ACT STRUCTURE lyrics. Each act = [Female Vocal]'s frantic rap, followed by a CLEAR PAUSE, then [Male Vocal]'s slow punchline, ALL LYRICS ARE SPOKEN OR RAPPED, STRICTLY NO SINGING, NON-MELODIC VOCALS ONLY, [Female Vocal] (Verse parts): Extremely fast, high-pitched, child-like Riot Grrrl Speed Rap, Breathless, sassy, chaotic. [Male Vocal] (Punchline parts): Low-tone, scratchy, Lazy Grunge Spoken, Cynical, rhythmic delivery
+```
+
+*Lyrics+cues:*
+```
+[Intro]
+
+(Instrumental Only - Distorted Guitar Riff mixed with Trot Synth Melody, Distorted Bagpipes, Police Sirens, Aggressive Scratching, Crowd Roaring)
+
+[Female Vocal] Happy New Year! Let's burn it down!
+
+[Male Vocal] (Sighs) Here we go again...
+
+[Verse 1]
+
+[Female Vocal]
+
+Listen up world I’m changing the game
+
+No more junk food no more shame
+
+Hitting the gym I'm playing to win
+
+Cutting the carbs I'm getting so thin
+
+Marathon runner climbing the peak
+
+Six-pack abs by the end of the week
+
+Body is a temple pure and unique
+
+Watch me glow I’m the ultimate freak
+
+[Break]
+
+(Music Stops - Sound of chewing potato chips)
+
+[Male Vocal]
+
+You ate pizza for breakfast.
+
+[Verse 2]
+
+[Female Vocal]
+
+Okay fine but look at the wrist
+
+Making the money that you gonna miss
+
+Crypto is booming stocks in the sky
+
+Buying a jet just to wave you goodbye
+
+CEO boss I’m the V-I-P
+
+Richer than anyone on the T-V
+
+Swimming in gold yeah I’m wild and I’m free
+
+The Queen of the Rich yeah that's gonna be me
+
+[Break]
+
+(Music Stops - Cash register error sound)
+
+[Male Vocal]
+
+Pay me back first.
+
+[Verse 3]
+
+[Female Vocal]
+
+Forget the cash it’s all in the mind
+
+Inner peace is the treasure I find
+
+Yoga master I’m totally Zen
+
+Meditating since god knows when
+
+No more anger I’m calm and I’m cool
+
+I don’t follow I make the rule
+
+A saint an angel no longer a fool
+
+Shining bright like a spiritual jewel
+
+[Break]
+
+(Music Stops - Glass breaking sound)
+
+[Male Vocal]
+
+Stop screaming then.
+
+[Verse 4]
+
+[Female Vocal]
+
+Okay love is the ultimate key
+
+Everyone’s gonna be obsessed with me
+
+A billion fans I’m the viral queen
+
+The hottest star that you’ve ever seen
+
+Dating a model maybe a duke
+
+My charm is a weapon it’s not a fluke
+
+Breaking the hearts with a single look
+
+Writing my legend in history book
+
+[Break]
+
+(Music Stops - Cat hissing sound)
+
+[Male Vocal]
+
+Your cat hates you.
+
+[Verse 5 - Climax]
+
+(Explosive Distortion, Brass blast & Fast Drum Roll)
+
+[Female Vocal]
+
+SCREW IT ALL! THE PLAN IS DEAD!
+
+PARTY UNTIL MY EYES TURN RED!
+
+NO MORE RULES JUST CHAOS TONIGHT!
+
+LIVING IT FAST AND BURNING IT BRIGHT!
+
+BREAK THE RESOLUTION BREAK THE FLOOR!
+
+I DON'T NEED A PLAN I JUST NEED MORE!
+
+THIS YEAR IS MINE GET OUT OF MY WAY!
+
+I’M GONNA LIVE LIKE IT’S DOOMSDAY!
+
+[Break]
+
+(Music Stops - Lighter flick sound)
+
+[Male Vocal]
+
+Happy New Year, kid.
+
+[Outro]
+
+(Instrumental Only - Explosive Drum Solo, Guitar Feedback Noise, Distorted Bagpipes fading out with Crowd Cheering & Whistling)
+
+[Female Vocal] R-E-S-O-L-U-T-I-O-N! Riot!
+
+[Male Vocal] Whatever.
+```
 
 **COVER (skin/final)** · `cover` · model v5 · key — · bpm — · ▶1 ♥0 · id `29789540`
 

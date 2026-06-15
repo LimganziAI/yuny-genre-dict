@@ -6,21 +6,17 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `mashup_condition` · model v5.5 · key — · bpm — · ▶7 ♥0 · id `6829cda5`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `78a4d9a7`
 
 *Style/Prompt (tags):*
 ```
-Dark alt-pop nu-disco fusion complex harmony, 60% dark alt-pop 25% nu-disco 15% neo-soul,
-BPM 124, key C minor, jazz harmony tritone substitutions chromatic passing,
-heavy sub-bass 60Hz mono + funky slap bass 150Hz punchy perfect combination,
-dark atmospheric synths + sweeping disco strings seamless frequency separation,
-female mezzo-soprano dry talk-singing transitions smooth melodic belting,
-cynical attitude English lyrics, vocal center dry 300-3kHz pristine clarity,
-Tape Saturation analog warmth, complex modern production
+Dark alt-pop meets nu-disco fusion, 60% dark alt-pop 25% nu-disco 15% neo-soul,
+BPM 124, key C minor, complex jazz harmony Cm9-Abmaj7#11-G7alt verse progression,
+Fm9-F#dim7-Gm7-G7b9 chromatic pre-chorus, Cm9-F13-Bbmaj9-Ebmaj7 disco chorus,
+tritone substitution Db13-Cmaj7 resolution,
+heavy sub-bass pulse, tight dry drum machine, syncopated bass fills,
+female mezzo-soprano dry rhythmic talk-singing cynical attitude English lyrics,
+tight rhymes, breathy close-mic texture, modern complex production
 ```
 
 *Lyrics+cues:*
@@ -109,4 +105,6 @@ Nu-disco tears, losing all control!
 [Singing: whispered sigh]
 I hate modern romance
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

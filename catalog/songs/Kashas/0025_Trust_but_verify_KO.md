@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶4 ♥1 👍liked · id `36cef3fa`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶4 ♥1 👍liked · id `36cef3fa`
 
 *Style/Prompt (tags):*
 ```
@@ -136,4 +132,6 @@ Grunge-rooted melodic pop-rock with funk-rock undercurrent, 120 BPM half-time la
 
 [End on falsetto held note, fade gentle]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

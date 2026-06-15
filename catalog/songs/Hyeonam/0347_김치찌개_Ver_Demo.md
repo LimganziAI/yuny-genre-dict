@@ -6,7 +6,72 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model  · key — · bpm — · ▶0 ♥0 · id `81ac1ff2`
+
+*Style/Prompt (tags):*
+```
+This is a high-energy K-pop track with a strong electronic dance music influence. The song features a female vocalist with a clear, bright tone, delivering rapid-fire rap-like verses and melodic choruses. The instrumentation includes a prominent synth bass line, a driving drum machine beat with a strong kick and snare, and various synth melodies and arpeggios that create a playful and dynamic atmosphere. There are also occasional brass-like synth stabs and vocal samples. The tempo is fast, contributing to the energetic feel. The production is clean and polished, with a good balance between the vocal and instrumental elements. The song structure is typical of K-pop, with distinct verse, pre-chorus, and chorus sections, along with a bridge and an instrumental break. The key appears to be in a major mode, contributing to the overall upbeat mood.
+```
+
+*Lyrics+cues:*
+```
+[Intro]
+Oh yeah
+
+[Verse 1]
+오늘 뭐 먹지 고민 백만 번 냉장고 문만 열었다 닫았다 스무 번
+남은 건 어제 치킨 아냐 저녁에 맥주랑 먹어야 해 그럼 뭘 먹지
+아 그래 김치찌개 한국인의 소울 푸드 얼큰하게 그거지
+돼지고기 듬뿍 넣고 두부 송송 파는 어디 있지 양파 반 개 듬성 썰어
+마늘은 어디 있어 아 몰라 일단 끓여보자
+그냥 시켜 먹지 않을까
+
+[Pre-Chorus]
+어 근데 김치가 없네
+세상에 김치가 없다니 이게 말이 돼 신김치 어디 갔어 엄마가 다 먹었나
+김장 김치 아직 안 익었을 텐데 옆집 가서 얻어와 아니지 민폐야
+마트를 가야지 야 근데 너무 멀어 뛰어가 숨차 택시 타 돈 아까워 버스를 타
+언제 와 그냥 김치 없이 끓일까 고기찌개 콩나물찌개 아냐 김치찌개 먹고 싶다고
+
+[Chorus]
+그래서 오늘은 먹을 수 있나
+자 김치인어가 나
+대충 헹궈 쭉쭉 찢어 넣고 돼지고기 팍팍 볶고 김치 넣고 또 볶아 물 붓고
+고춧가루 팍팍 색깔 안 나 더 팍팍 설탕 조금 간장 살짝 액젓 한 방울
+마늘 듬뿍 두부 넣고 파 송송 양파 넣고 보글보글 지글지글 끓는데 왜 맛이 이 모양이야
+하얗고 싱겁고 짜고 맵고 달아 아 망했어
+
+[Bridge]
+염전이라도 차리게
+염전이라도 차리게
+
+[Instrumental Break]
+
+[Verse 2]
+아냐 아직 포기 못 해 김치찌개 살려내야 해 면사리 투하 오 그래 이거지
+노란 치즈 한 장 살짝 마법 가루는 신의 한 수 감칠맛 팍팍 이제 좀 괜찮은가
+냄새는 그럴듯한데 비주얼 폭망 콩물은 왜 또 한강이야 라면 불기 전에 건져 먹어야 해 빨리
+
+[Pre-Chorus]
+아 너 너무 고기도 살겠다
+
+[Chorus]
+아 근데 SNS 보니까 다들 김치찌개 장인이야 플레이팅 예술이고 예쁜 뚝배기에
+보글보글 반찬도 정갈하고 나는 왜 이 모양 이 꼴이지 좋아요 눌러줘 팔로우 해줘
+악플 달지 마 유리 멘탈 부서진다 나도 예쁜 그릇 사고 싶다
+무쇠 냄비 꼬무니 접시 아 비싸 엄마 거 훔쳐와 아니지 등짝 스매싱
+나도 유명 유튜버 하고 싶어 도와줘
+
+[Outro]
+견본도 보고 대단하네
+자 이제 드디어 먹어보자 밥 솥 열고 흰 쌀밥 가득
+버섯 라면 불기 전에 치즈 굳기 전에 정체불명 김치찌개 듬뿍 올려서
+한 입 떡 먹는데 어 이게 무슨 맛이지 짜고 맵고 달고 시고 느끼하고
+근데 왜 맛이지 이상하다 그 역시 내가 끓인 게 최고지 이 맛이지
+감탄 연발 눈물 찔끔 천상의 맛 인정
+식당 차려도 될 거야
+(하
+```
 
 **COVER (skin/final)** · `cover` · model v5 · key E_minor · bpm 127.02 · ▶2 ♥0 · id `f8d66ee9`
 

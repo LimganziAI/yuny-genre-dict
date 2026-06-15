@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key — · bpm — · ▶1 ♥0 · id `824dba52`
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶1 ♥0 · id `824dba52`
 
 *Style/Prompt (tags):*
 ```
@@ -99,4 +95,6 @@ Beat는 더 Up, Bass는 더 Down! (Hey!)
 (Can you hear me?!)
 [Glitchy vocal chops and laughter fade out with the beat]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

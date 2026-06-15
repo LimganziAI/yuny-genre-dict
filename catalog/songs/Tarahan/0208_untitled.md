@@ -6,16 +6,17 @@
 
 ---
 
-**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶2 ♥0 · id `5b5f2979`
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶1 ♥0 · id `249f2ca0`
 
 *Style/Prompt (tags):*
 ```
-Genre: Shibuya-kei, J-Piano Pop, Sophisticated Indie Pop.
-Vibe: Organic, Bright, Energetic, Refreshing, Kawaii.
-Rhythm: Fast-Tempo Swing, Real Acoustic Drum Samples, Groovy Walking Bass.
-Instruments: Bright Grand Piano (Jazz Chords), Clean Electric Guitar (Funky Strumming), Brass Section Hits.
-Vocals: Natural Female Vocals, Clear Diction, Melodic and Playful, Non-robotic tone, Crisp delivery.
-Details: Live Band Feel, Energetic Arrangement, Anime Opening Style, Dynamic Stops.
+Genre: Shibuya-kei, J-Indie Pop, Piano Pop.
+Vibe: Bright, Refreshing, Kawaii, Sophisticated, Energetic but Clean.
+Rhythm: Fast-Tempo Swing, Bouncy Drum beats, Walking Bassline.
+Instruments: Bright Piano (Jazz Chords), Clean Electric Guitar (Cutting Strumming), Brass Section (Optional for energy).
+Vocal: Crystal Clear Female Vocals, Cute but not childish, Airy and Soft tone, Melodic singing (Not too staccato), Clear Diction.
+Details: Sudden stops used for comedic effect, High quality arrangement, Anime Opening Style.
+Avoid: Trot, Enka, Heavy Distortion, K-Pop R&B style, Slow Ballad.
 ```
 
 *Lyrics+cues:*

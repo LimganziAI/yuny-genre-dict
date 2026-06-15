@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶3 ♥0 · id `6bac1312`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶3 ♥0 · id `6bac1312`
 
 *Style/Prompt (tags):*
 ```
@@ -69,4 +65,6 @@ Sophisticated Liquid Drum and Bass, 160 BPM high-speed breakbeat rhythm but 80 B
 선명하게, 사라져.
 [End]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

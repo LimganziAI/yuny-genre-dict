@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key Eb_major · bpm 98.95 · ▶1 ♥0 · id `b4cb7db6`
+**CREATE (bone)** · `create` · model v5 · key Eb_major · bpm 98.95 · ▶1 ♥0 · id `b4cb7db6`
 
 *Style/Prompt (tags):*
 ```
@@ -136,4 +132,6 @@ Mixing: Vocal Forward, Bright, Wide, Crisp.
 
 ずっと、見ていますよ。
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

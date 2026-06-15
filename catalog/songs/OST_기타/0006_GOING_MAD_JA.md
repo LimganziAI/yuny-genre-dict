@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶4 ♥0 · id `b4e28e6a`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶4 ♥0 · id `b4e28e6a`
 
 *Style/Prompt (tags):*
 ```
@@ -117,4 +113,6 @@ Two female vocals on one topline, slight delivery contrast, both prominent throu
 また — Going Mad
 [Sudden end]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

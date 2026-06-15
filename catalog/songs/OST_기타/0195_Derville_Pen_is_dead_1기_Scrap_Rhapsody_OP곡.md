@@ -6,7 +6,125 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶1 ♥0 · id `a04afecb`
+
+*Style/Prompt (tags):*
+```
+Japanese Indie Pop Rock 160 BPM Mrs GREEN APPLE style BRIGHT REFRESHING MELODIC production. MALE AND FEMALE DUET male vocals melodic conversational rap natural flow female vocals energetic bright belting high notes cheerful attitude natural Korean pronunciation. CLEAN arrangement acoustic guitar arpeggios piano chords clean electric guitar simple rock drums tight kick snare bass line. Verse conversational melodic flow Pre-chorus building energy. Chorus CATCHY MELODIC HOOK rising melody G-Ab-Bb-C infectious sing-along GANG VOCALS cheerful harmonies. Clear dynamic contrast verse chorus. Crystal vocal clarity bright cheerful atmosphere uplifting emotional energy. Contemporary J-Pop production polished clean sound addictive melody REFRESHING YOUTHFUL ENERGY natural flow.
+```
+
+*Lyrics+cues:*
+```
+[Intro]
+[Clean Guitar Arpeggios + Light Percussion - 4 beats]
+(Yeah! Let's go!)
+
+[Verse 1]
+[Male Vocal: Melodic Conversational Rap, Bright Natural Flow]
+동네 끝 공터에 쌓인 철골 더미들
+아무도 거들떠보지 않던 그 구석
+실패작이라 딱지 붙였던 것들이
+오늘 밤엔 무대 위의 주인공이야
+
+버려진 나사처럼 굴러다니던
+우릴 조용히 밟고 지나가던 발걸음
+휘청이던 날들을 다 모아보니
+의외로 꽤 멋진 그림이 나왔어
+
+[Pre-Chorus]
+[Female Vocal: Bright Building Energy, Rising Melody]
+기억나? 비에 젖던 그 골목길
+손에 쥔 건 녹슨 우산뿐이었지
+지금 봐 우리 발밑의 그림자
+생각보다 훨씬 긴 실루엣이야
+
+[Drum Fill + Piano Crescendo - 2 beats]
+
+[Chorus]
+[Both: Catchy Melodic Hook G-Ab-Bb-C, Infectious Energy]
+뒤집어! Crash! 어제의 우리를!
+구닥다리 대본은 다 찢어버려!
+비틀린 선 위에 춤을 추면서
+원래 이랬다는 듯 웃어보자!
+
+[Gang Vocals: Cheerful Bright Harmonies]
+Hey! Ho! 뒤집어! Crash!
+Hey! Ho! 부숴! 지금!
+뒤집어! Crash! Right now!
+
+[Instrumental Interlude - 4 beats: Clean Guitar + Piano Melody]
+
+[Verse 2]
+[Female Vocal: Energetic Melodic Patter, Playful Sassy]
+맞지 않는 옷 같은 친절한 조언들
+"조금만 각을 줄여보면 어때?"
+잘라낸 모서리들 쌓아두니까
+생각보다 탄탄한 계단이 됐어
+
+맨 앞줄 아니어도 괜찮다 했지
+우린 구석 자리에서 세상을 봤어
+자막처럼 흘러가던 풍경들이
+이제는 우리 얘길 자막으로 쳐
+
+[Pre-Chorus 2]
+[Male Vocal: Building Intensity, Clear Bright Tone]
+넘어진 횟수로 매긴 등수가
+사실은 출발선의 개수 같아
+가장 늦게 일어난 그 순간이
+가장 멀리 튀어오를 타이밍!
+
+[Full Band Build - 2 beats]
+
+[Chorus 2]
+[Both: Maximum Bright Energy, Melodic Explosion]
+뒤집어! Crash! 버려진 문장을!
+우리가 다시 읽어 새로 적어가!
+틀렸던 답 위에 줄을 그어도
+엉망인 필체가 더 마음에 들어!
+
+[Gang Vocals: Stadium Cheerful Energy]
+Hey! Ho! 뒤집어! Crash!
+Hey! Ho! 부숴! 지금!
+뒤집어! Crash! Don't stop!
+
+[Instrumental Break - 6 beats: Electric Guitar Solo + Piano Backing]
+
+[Bridge]
+[Female Vocal: Soft Intimate to Powerful Build]
+[Whisper - Acoustic Guitar Only]
+낡은 간판 아래서 서로를 보며
+"여기까지 온 것도 꽤 멋지다"
+괜찮지 않은 날들 투성이지만
+그래도 이상하게 웃음이 나
+
+[Brief Silence - 1 beat]
+
+[Both: Building Gradually, Emotional Crescendo]
+금이 간 거울 속 어제의 모습
+조각난 그대로 안아줄게
+네가 버린 장면 모아 붙이면
+생각보다 짜릿한 예고편 같아
+
+[Explosive Build] One! Two! Three! 뒤집어!
+
+[Final Chorus]
+[Both: Triumphant Maximum Energy, Heroic Bright]
+뒤집어! Crash! 마지막 한 번 더!
+오늘의 실패까지 챙겨 안고서!
+언젠가 누가 우리를 묻는다면
+"조금 시끄러운 애들"이면 돼!
+
+[Gang Vocals: Full Stadium Bright Energy]
+Hey! Ho! 뒤집어! Crash!
+Hey! Ho! 부숴! 지금!
+Hey! Ho! 우린 고장 안 나!
+Hey! Ho! 계속 돌아가!
+
+뒤집어! Crash! 끝까지!
+[Final Bright Shout] 조용한 변두리에서 시작된 기적!
+
+[Outro - 4 beats: All Instruments Unison + Bright Fade]
+```
 
 **COVER (skin/final)** · `cover` · model v5 · key — · bpm — · ▶4 ♥0 · id `9c2e3b77`
 

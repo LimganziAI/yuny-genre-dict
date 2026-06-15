@@ -6,7 +6,97 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶4 ♥0 · id `c854c359`
+
+*Style/Prompt (tags):*
+```
+128 BPM, E Major. MJ-style funk pop, upbeat dance-pop bone. Harmonic core: looping subdominant Amaj7 to Emaj9, sudden borrowed Cmaj7-D in chorus. Microtonal quarter-tone bends on melody. Female light soprano, airy sweet tone. Vocal delivery: sassy cheeky verse, straight ascending melodic trajectory, sharply cut phrase ends, zero descending curls, explosive soaring airy belt on high notes. Relentless 16th-note syncopated slap bass, tight funk drum groove. High-tension rising melody.
+```
+
+*Lyrics+cues:*
+```
+[Intro 8]
+[Instrumental: tight funk drum groove, syncopated slap bass, looping Amaj7 - Emaj9]
+
+[Verse 1 16]
+[Singing: effortless airy sweet, cheeky and sassy, straight notes, crisp rhythmic diction]
+잔 든 손은 멈칫
+시선들은 힐끗
+얼어붙은 공기
+내가 먼저 깰게
+[Pause half bar]
+(whisper: watch me)
+리스트엔 없지
+근데 알게 뭐야
+이 지루한 박자
+싹 다 엎어볼까
+
+[Pre-Chorus 8]
+[Singing: ascending melody, building tension, lifting to head voice]
+위선적인 미소 전부 벗어 던져
+심장 소린 이미 레드라인을 넘었어
+차오르는 진짜 아드레날린
+이 완벽한 규칙을 찢어버려
+
+[Chorus 16]
+[Borrowed Chords: Cmaj7 - D jump]
+[Singing: explosive soaring airy belt on high notes, straight upward trajectory, powerful release, zero curling phrase ends]
+쏟아지는 샴페인 잔 위로 (higher!)
+구겨진 드레스 따윈 버려
+선을 넘고 뻗어가는 빛을 향해
+아무도 멈출 수 없어 (never stop)
+이 우아한 난장판을 즐겨!
+
+[Verse 2 16]
+[Singing: more playful, behind-the-beat layback on syncopated slap bass]
+[One line per 2 bars]
+플래시 터져 찰칵
+초점 잃은 눈빛
+진짜 땀방울이
+뭔지 보여줄게
+[Pause 1 bar]
+(ah— wake up)
+스크린을 찢고
+나를 따라와 봐
+
+[Pre-Chorus 8]
+[Singing: ascending melody, building tension, straight notes no vibrato]
+가식적인 예의 전부 벗어 던져
+심장 소린 이미 레드라인을 넘었어
+차오르는 진짜 아드레날린
+모든 한계를 다 부숴버려
+
+[Chorus 16]
+[Borrowed Chords: Cmaj7 - D jump]
+[Singing: explosive soaring airy belt on high notes, straight upward trajectory, maximum energy]
+쏟아지는 샴페인 잔 위로 (higher!)
+구겨진 드레스 따윈 버려
+선을 넘고 뻗어가는 빛을 향해
+절대 멈출 수 없어 (never stop)
+이 우아한 난장판을 즐겨!
+
+[Bridge 8]
+[Singing: stripped down, floating airy sweet voice, quarter-tone slides]
+[Sudden Absolute Silence: 0.5 seconds full band cut]
+가장 짙은 어둠 속에서
+가장 미친 듯이 빛나는 법을 알아
+[Held note: 2 bars, ascending straight up, no vibrato]
+
+[Final Chorus 16]
+[Beat Drop]
+[Singing: absolute peak, highest soaring notes, full airy belt, straight release]
+쏟아지는 샴페인 잔 위로 (fly away!)
+세상의 룰을 다 부숴버려
+눈부시게 쏟아지는 저 빛을 향해
+절대 멈출 수 없어 (never stop)
+이 우아한 난장판을 즐겨!
+
+[Outro 8]
+[Singing: ad-lib runs straight up, airy release]
+(higher, higher!)
+이 우아한 난장판을
+[Sudden hard stop on beat 1]
+```
 
 **COVER (skin/final)** · `cover` · model v5.5 · key — · bpm — · ▶7 ♥0 · id `bdd41787`
 

@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `a58d32e6`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `a58d32e6`
 
 *Style/Prompt (tags):*
 ```
@@ -77,4 +73,6 @@ Just drive me to the edge of the moonlight
 [Outro: Long elegant fade out]
 [Singing: fading vocal hums, strings resolving gracefully]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

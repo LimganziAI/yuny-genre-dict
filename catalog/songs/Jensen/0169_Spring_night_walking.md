@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key — · bpm — · ▶2 ♥0 · id `4facece0`
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶2 ♥0 · id `4facece0`
 
 *Style/Prompt (tags):*
 ```
@@ -124,4 +120,6 @@ Spring night walking
 
 [Instrumental: Gradual fade out with funky bass groove]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

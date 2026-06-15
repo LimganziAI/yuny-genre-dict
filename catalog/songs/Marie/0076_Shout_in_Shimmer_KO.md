@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶2 ♥1 👍liked · id `a94aca3b`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶2 ♥1 👍liked · id `a94aca3b`
 
 *Style/Prompt (tags):*
 ```
@@ -91,4 +87,6 @@ rhythmic percussive vocal delivery, pristine studio isolation, dry vocal booth, 
 [Outro: Fade out]
 [Singing: Clear breathing, acoustic chops fading, clean studio finish]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

@@ -6,21 +6,21 @@
 
 ---
 
-**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶3 ♥1 👍liked · id `a443d7d9`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `72d8fc93`
 
 *Style/Prompt (tags):*
 ```
-Light airy young teen-girl soprano D4 to A5, sweet silvery, straight ascending with zero descending curls, sitting just behind the beat, off-grid and loose, K-indie melody fused 50/50 with a bright ascending J-pop chorus engine and airy belt release, playful sass, educated California-teen accent. 168 BPM Y2K UK garage, skippy broken groove, kick on 1-and-3, snare on 2-and-skipped-3, off-grid syncopated, sub-bass 16th glide, vocal floats half-time over the fast skip. Lower harmony: Arabian subdominant loop Bb-Gb-F, Gb flat-II Phrygian color, oud Hijaz motif, micro quarter-tone bends. Pre-chorus ascending climb Bb-C-Dm-Eb, chorus F-Bb-C-Dm bright with borrowed-chord lift on the bloom, bridge chromatic mediant F to Db drop on the twist. Hook leaps to the fifth, one soaring peak in the final chorus, open-ended escalating finale.
+Light airy young teen-girl soprano D4 to A5, sweet thin and breathy, head voice, pulled back low-energy and effortless, girl-next-door warmth not idol-power, sitting just behind the beat, a catchy topline that floats then lifts, educated California-teen accent. 2026 nu-UK garage and speed garage, 168 BPM, G minor with a Phrygian flat-2 color on Ab, bouncy danceable and uplifting. Skippy 2-step groove, kick displaced off the grid, shuffled hi-hats with heavy swing, rolling wobbling speed-garage sub-bass with a semitone to quarter-tone glide. Verse vamp Gm-Eb-F flattened and conversational, pre-chorus climb Cm-D-Eb-F building and ascending, chorus anthem Gm-Bb-Eb-F with a bright soaring lift to the fifth, bridge chromatic mediant Gm to B major on the twist. Plucky synth lead fast attack short release, warm organ chord stabs, soulful pitched vocal chops, bright sparkling synth. One soaring peak note in the final chorus, open-ended finale.
 ```
 
 *Lyrics+cues:*
 ```
-[Vocal: light airy young teen-girl soprano D4-A5, sweet silvery, straight ascending zero descending curls, sitting just behind the beat off-grid, bright J-pop chorus engine with airy belt release, modern vocoder and talkbox doubling throughout, educated California-teen accent, playful sass]
+[Vocal: light airy young teen-girl soprano D4-A5, sweet thin breathy head voice, pulled far back low-energy and effortless, heartwarming gentle fresh and crisp, never belted, girl-next-door not idol-power, behind the beat, catchy topline floating then lifting, soulful pitched vocal-chop stabs in the groove, California-teen accent]
 
 [Instrumental Intro: 2 bars]
 
 [Verse 1: 8]
-[Singing: behind-the-beat conversational and silvery, light breathy, skippy garage groove and sub-bass glide underneath, subtle vocoder shadow]
+[Singing: behind-the-beat soft breathy and flattened conversational, bouncy skippy 2-step and wobbling sub-bass, plucky synth, soft vocal-chop stab]
 Flip-flops in the sand, it's a hundred degrees
 Draggin' my bag past a thousand palm trees
 There's a lamp in the dune, kinda dusty and old
@@ -31,54 +31,54 @@ But there's a genie just over the hill, they swear
 So I'm climbin' this dune, I don't even care
 
 [Pre-Chorus 1: 4]
-[Singing: ascending J-pop build, voice climbing with the chord lift, breath catching, vocoder harmony swelling]
+[Singing: rising garage build soft, light voice climbing unforced, warm organ stabs entering, breath catching]
 Three little wishes, that's the deal, right?
 Been rehearsin' this speech all night
 Rub-a-dub-dub, here we go—
-(deep breath) okay, showtime, let's GO
+(deep breath) okay, showtime, let's go
 
 [Chorus 1: 8]
-[Singing: airy belt release soaring up, ascending bloom, pitched-up vocal-chop stabs answer each line, off-grid garage groove, wide vocoder stacks]
+[Singing: soaring airy lift floating up to the fifth soft and unforced, heartwarming and fresh, bright sparkling synth, soulful vocal-chop stabs, bouncy energetic garage groove, hand-claps and snaps]
 GENIE, genie, can you hear me out?
 Got a little list and I'm gonna shout it out loud
-First things first — I want THAT phone (you know the one)
+Wish number one — I want THAT phone (you know the one)
 The one that everybody's got, c'mon, gimme one
-Second — there's a boy, and I need him to fall
+Wish number two — there's a boy, and I need him to fall
 Make him text me back, make him give me a call
-Genie, genie, grant me one, two, three—
+Genie, genie, that's one wish, and that's two—
 (giggle) is that too much to ask, hee-hee?
 
 [Verse 2: 8]
-[Singing: playful sassy behind-the-beat, talkbox doubling on phrase ends, skippy stutter underneath]
+[Singing: playful soft breathy behind-the-beat, low-energy light, gentle talkbox touch, bouncy skippy stutter]
 Now the boy, call him Aladdin, whatever his name
 Struttin' 'round school like he's winnin' a game
 Way too cool, got that stupid lil' smirk
 Make him look at ME like I'm worth all the work
 I don't need much, just his heart on a plate
 And the phone, and maybe world peace — can that wait?
-Okay scratch the peace, I'll keep it real small
-Just the boy and the phone, that's it, that's all
+Okay scratch the peace, keep it small as can be
+Just the boy and the phone — that's two outta three
 
 [Pre-Chorus 2: 4]
-[Singing: ascending build again higher, vocoder swell rising]
-Two little wishes left to go, right?
+[Singing: rising again soft, light unforced climb, organ swell underneath]
+Okay so that's two, just one wish to go, right?
 Holdin' my breath, holdin' on tight
-Genie, c'mon, don't keep me waitin'—
-(deep breath) okay, here comes wish number—
+Genie, c'mon, here's my last little wish—
+(deep breath) okay, wish number three is—
 
 [Chorus 2: 8]
-[Singing: airy belt even bigger, ascending bloom, vocal-chop stabs and garage groove, vocoder stacks, hand-claps]
-GENIE, genie, can you hear me out?
-Got a little list and I'm gonna shout it out loud
-First things first — I want THAT phone (you know the one)
-The one that everybody's got, c'mon, gimme one
-Second — there's a boy, and I need him to fall
-But hold on a second, wait, that's not all—
-Genie, genie, grant me one, two, three—
-(giggle) lemme look at you first, let me see
+[Singing: soaring airy lift floating, heartwarming and fresh, vocal-chop stabs and bouncy garage groove, sparkling synth, lively claps and snaps]
+GENIE, genie, hear me out one more time
+I got my last wish and I'm tryna make it rhyme
+Wish number three — okay, hold on, let me think
+There's the phone, there's the boy, and I'm right on the brink
+Last little wish and I gotta get it right
+Somethin' I really want, holdin' on so tight
+Genie, genie, here comes wish number three—
+(giggle) but lemme look at you first, let me see
 
 [Bridge: 8]
-[Singing: voice softening to flustered breathy, cluster vocal dissonance m2 below on the climax, chromatic-mediant drop, groove thins to Rhodes and oud]
+[Singing: voice softening to gentle breathy whisper, cluster vocal dissonance m2 below on the climax, chromatic-mediant drop to B major, groove thins to organ and warm pad]
 But wait — hold up — lemme look at your face
 Oh... okay. That's— um. That's not what I— no way
 The genie's kinda— is it hot in here?
@@ -89,22 +89,22 @@ Down to my last wish, and I'm takin' it slow
 Maybe I'll just... not let this genie go
 
 [Final Chorus: 8]
-[Singing: warmest fullest airy belt release, stacked vocoder harmony, all-in kaleidoscopic layering, full off-grid groove, no fade]
+[Singing: warmest soaring airy lift floating effortless, single peak note, heartwarming with a playful coy smile, light stacked harmony, bright sparkling synth wide, bouncy energetic groove, no fade]
 GENIE, genie — scratch that wish, hold on
 Maybe wish number three's been sittin' right here all along
 Forget about the boy, forget the dumb phone
-(softer) maybe I don't wanna walk back home alone
+'Cause once I make that wish, you're gone — and I'm alone
 Genie, genie, what're you doin' tonight?
-Lo-o-ove at first wish, now is that allowed, alright?
-One, two, three — I'll keep the last one for me—
-(giggle) heaven knows what wish number three's gonna be
+Here's the trick — don't say it, and you're stuck right by my side, right?
+(sly) Wish number three? — hmm, lemme think reeeal slow—
+(giggle) c'mon and walk me home, genie, nice and slow
 
 [Outro: 4]
-[Singing: light breathy behind-beat, vocoder shadow fading slow, playful]
-So... about that third wish—
-(whisper) lemme get back to you on that
-Flip-flops in the sand, walkin' off with my genie—
-yeah, the phone can wait
+[Singing: very soft breathy behind-beat with a sly little smile, trailing off slow and coy, vocal chop trailing off, warm pad drifting]
+So... that third wish? — (humming) maybe later, maybe never
+(whisper) long as I don't say it, you and me got forever
+Flip-flops in the sand, walkin' home with my genie—
+yeah... the phone can wait, tee-hee
 ```
 
 **COVER (skin/final)** · `cover` · model v5.5 · key — · bpm — · ▶4 ♥0 · id `e21ffb24`

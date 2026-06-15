@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `d69b449f`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `d69b449f`
 
 *Style/Prompt (tags):*
 ```
@@ -191,4 +187,6 @@ run into you again sometime
 [Fade out gradual 4 bars]
 [End]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

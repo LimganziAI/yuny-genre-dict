@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v4.5+ · key — · bpm — · ▶3 ♥0 · id `f37fd7d7`
+**CREATE (bone)** · `create` · model v4.5+ · key — · bpm — · ▶3 ♥0 · id `f37fd7d7`
 
 *Style/Prompt (tags):*
 ```
@@ -64,4 +60,6 @@ A stylish and energetic blend of Indie Sleaze and Glitch Pop Rock. The track fea
 [Outro]
 이것이 나의, 새로운 출근길.
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

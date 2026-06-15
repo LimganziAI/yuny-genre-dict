@@ -6,7 +6,106 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶2 ♥0 · id `b526db0a`
+
+*Style/Prompt (tags):*
+```
+Genre: Minimal Glitch, Trip-hop, Spoken Word Style: Dry Staccato drum beat, Stop-and-Go rhythm, Deep Bassline, Sharp pauses Vocals: Female Vocals, Cold & Detached Narration, Rhythmic Spoken-word, Whispering, Acting Description: Tense, Cinematic, Mystery, Anime Opening Vibe, No singing in verses
+```
+
+*Lyrics+cues:*
+```
+[Intro]
+(Spoken Word)
+午後2時、気だるい窓際
+あそこの彼、また寝てるよ
+本、逆さまじゃない？
+...この部署、あんなに暇でいいのかな
+
+[Verse 1]
+(Rhythmic Narration)
+その時、廊下の向こうから副団長が
+顔を真っ赤にして、誰かを引きずってくる
+「おい！ ちょっと頼む！」
+
+窓際の彼は立ち上がりもしない
+ただ指先一つ、クイクイっと
+「お入りください」
+
+(Door Click)
+客が押し込まれ、扉が閉まる
+...ガチャリ
+
+[Chorus]
+あのドアの向こうで何が起きているのか
+誰も知らない (Daremo shiranai)
+怒号も悲鳴も聞こえない部屋
+あまりに平和な午後のティータイム？
+
+一体全体どうなってるの？
+ただのミステリー (Tada no Mystery)
+対話か、魔法か、それとも...
+ただ一つ言えるのは
+常識じゃ説明がつかないってこと
+
+[Verse 2]
+[Stop]
+[Silence]
+(Whisper)
+耳を澄ませてみたんだ
+中から微かに声が...
+
+[Scream]
+「ギャッ...！」
+[Break]
+
+[Shh]
+「...シーッ」
+[Break]
+
+[Impact]
+ドスン。
+
+[Pause]
+
+(Pouring sound)
+...トクトク...
+お茶を注ぐ音だけ...？
+
+[Chorus]
+あのドアの向こうで何が起きているのか
+僕の聞き間違い？
+一瞬の騒ぎ、そして完全な静寂
+今の音、夢でも見てたのかな
+
+一体全体どうなってるの？
+ただのミステリー
+あれは悲鳴？ それとも笑い声？
+ただ一つ言えるのは
+この部屋の防音は完璧ってこと
+
+[Bridge]
+(Door Click)
+ドアが開く
+塵一つついていない服
+彼はあくびを噛み殺して出てくる
+
+その背後に見える客
+行儀良く両手を揃えて
+震える声で90度のお辞儀
+「あ... ありがとうございました... 本当に...」
+
+[Outro]
+彼は返事もせずに
+また窓際へ戻って寝転がる
+
+えっ... ちょっと待って
+今、何があったの？
+あの怒ってた人が、なんで感謝してるわけ？
+それに... みんな関心すらないわけ？
+...ねえ、本当に何があったの！？
+(Confusion)
+```
 
 **COVER (skin/final)** · `cover` · model v5 · key — · bpm — · ▶1 ♥0 · id `b625e732`
 

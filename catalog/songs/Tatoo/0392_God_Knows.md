@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key — · bpm — · ▶8 ♥0 · id `f9209804`
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶8 ♥0 · id `f9209804`
 
 *Style/Prompt (tags):*
 ```
@@ -82,4 +78,6 @@ The song begins with sound effects of a spinning coin and a cigarette lighter. I
 [A soft, satisfied sigh]
 Amen.
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

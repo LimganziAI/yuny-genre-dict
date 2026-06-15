@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶5 ♥1 👍liked · id `a4e3368c`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶5 ♥1 👍liked · id `a4e3368c`
 
 *Style/Prompt (tags):*
 ```
@@ -98,4 +94,6 @@ solo quiero — derretirme aquí
 me derrito — me derrito (contigo, en julio, sin razón)
 [End]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

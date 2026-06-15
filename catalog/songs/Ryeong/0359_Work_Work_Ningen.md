@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key Gb_minor · bpm 87.02 · ▶2 ♥0 · id `dd270bc2`
+**CREATE (bone)** · `create` · model v5 · key Gb_minor · bpm 87.02 · ▶2 ♥0 · id `dd270bc2`
 
 *Style/Prompt (tags):*
 ```
@@ -138,4 +134,6 @@ Run! Run! 닌겐! (Harder!)
 [8-bit sound] Ding!
 [Whisper] ...내일도 기대한다. (방긋!)
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

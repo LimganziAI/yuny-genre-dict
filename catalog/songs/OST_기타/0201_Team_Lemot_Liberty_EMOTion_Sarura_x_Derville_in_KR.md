@@ -6,7 +6,109 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model  · key — · bpm — · ▶1 ♥0 · id `e71c5654`
+
+*Style/Prompt (tags):*
+```
+A high-energy J-pop track with a driving beat and a blend of electronic and acoustic instrumentation. The song is in a major key, with a fast tempo of approximately 140 BPM. The primary instruments include a synth bass providing a strong rhythmic foundation, a drum kit with a prominent kick and snare, and various synthesizers creating melodic and harmonic layers. A distorted electric guitar provides rhythmic accents and occasional melodic fills. The vocals are primarily female, featuring a lead vocalist with a clear, energetic tone, often accompanied by harmonized backing vocals. The song structure follows a typical pop format with verses, pre-choruses, and choruses, featuring a bridge and an outro. Production elements include a bright, punchy mix with a strong emphasis on the vocals and a wide stereo image. Reverb and delay are used on vocals and some synth elements to add depth. The overall feel is upbeat and celebratory.
+```
+
+*Lyrics+cues:*
+```
+[Intro]
+(Yeah!)
+(Liberty Emotion!)
+(Woo!)
+
+[Verse 1 - Japanese Female Vocals]
+같이 놀아줘서 진짜 고마워
+특별한 이유 같은 건 없는데 말야
+그냥 이 시간이 제일 재밌었어
+앞으로도 계속 같이 해보자고
+
+[Pre-Chorus - Japanese Female Vocals]
+(L.E.M.O.T.I.)
+자유롭게 감정대로 놀아보자
+(L.E.M.O.T.I.)
+우리 함께면 뭐든지 재밌어
+
+[Chorus - English Female Vocals]
+Thanks for sticking around, you make it fun
+No master plan but look what we've done
+Right now feels like the best it's ever been
+Let's keep this crazy party rollin', my friend
+
+[Pre-Chorus - English Female Vocals]
+(L.E.M.O.T.I.)
+Liberty and Emotion, let's go wild
+(L.E.M.O.T.I.)
+Everything's better when we're together
+
+[Verse 2 - Japanese Female Vocals]
+一緒にいてくれて本当ありがとう
+深く考えなくてもそれでいいじゃん
+今この瞬間が一番楽しいから
+これからもずっと遊び続けよう
+
+[Pre-Chorus - Japanese Female Vocals]
+(L.E.M.O.T.I.)
+自由に感情のまま遊ぼうよ
+(L.E.M.O.T.I.)
+みんな一緒なら何でも楽しい
+
+[Verse 3 - Spanish Female Vocals]
+Gracias por quedarte, esto es genial
+Sin ningún plan, pero suena brutal
+Este momento es pura diversión
+Sigamos juntos esta celebración
+
+[Pre-Chorus - Spanish Female Vocals]
+(L.E.M.O.T.I.)
+Libertad y emoción, vamos a jugar
+(L.E.M.O.T.I.)
+Todo es mejor cuando estamos juntos
+
+[Bridge]
+(L.E.M.O.T.I.)
+(Hey!)
+(L.E.M.O.T.I.)
+(Hey!)
+(L.E.M.O.T.I.)
+(Come on!)
+(Come on!)
+(Freedom!)
+(いこう!)
+(Libertad!)
+(Let's go!)
+(ありがと!)
+(Come on!)
+(楽しい!)
+(Let's go!)
+(Come on!)
+(Yeah!)
+(自由!)
+(楽しい!)
+(一緒!)
+(Liberty!)
+(楽しい!)
+(Let's go!)
+(Vamos!)
+(Emotion!)
+(ありがと!)
+
+[Outro]
+(Yeah!)
+(L.E.M.O.T.I.)
+(L.E.M.O.T.I.)
+(Liberty and Emotion, let's go wild!)
+(L.E.M.O.T.I.)
+(Everything's better when we're together!)
+(L.E.M.O.T.I.)
+(L.E.M.O.T.I.)
+(L.E.M.O.T.I.)
+(Come on!)
+(Come on
+```
 
 **COVER (skin/final)** · `upsample` · model v5 · key — · bpm — · ▶4 ♥1 👍liked · id `870a8646`
 

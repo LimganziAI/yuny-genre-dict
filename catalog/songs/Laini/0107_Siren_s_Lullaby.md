@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `094df1bc`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `094df1bc`
 
 *Style/Prompt (tags):*
 ```
@@ -120,4 +116,6 @@ Jazz, Pop, Soul, Folk come away with me style nu jazz dissolving into beach hous
 [Outro: Synth pad sustaining, reverb tail dissolving into complete silence]
 [Singing: one barely audible exhale, voice dissolved completely]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

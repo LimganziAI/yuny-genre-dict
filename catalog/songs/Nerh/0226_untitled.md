@@ -6,7 +6,108 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶2 ♥0 · id `01f93759`
+
+*Style/Prompt (tags):*
+```
+[Genre & Vibe] Contemporary J-Pop Rock, Math Rock Influence, Emotional Post-Hardcore elements, Nocturnal City Vibe, Bittersweet Anthem, 140 BPM, Crystal Clear Mix.
+
+[Vocal Texture] Female Lead, Bright and Powerful but with a Husky and Slightly Raspy quality, Raw Heartfelt Emotion, Frustrated Delivery. Verse: Breath-heavy, Intimate, Low-tone whispering. Chorus: Passionate and Desperate High-Pitch Belting, Cracking voice texture conveying Regret and Longing.
+
+[Instrumentation] Main: Complex Jazz Piano Chords (7th/9th harmonies), Fast Arpeggios. Guitar: Glassy Clean Electric Guitar (Verse) to Aggressive Overdriven Riffs (Chorus), Math-rock tapping. Rhythm: Funky Driving Bassline (Slap & Melodic runs), Syncopated Drum Groove with complex Ghost notes. Orchestration: Dynamic String Section Swells (Violin/Cello) adding cinematic tension.
+
+[Structure] Dynamic Build-up, Explosive Hook, Minimalist Bridge, Emotional Crescendo.
+```
+
+*Lyrics+cues:*
+```
+[Intro]
+(Complex Jazz Piano Solo with Syncopated Hi-hats)
+(Glassy Electric Guitar Riff enters)
+(Bass Slide)
+
+[Verse 1]
+(Vocal: Staccato rhythm, Low & Husky, Breath-heavy)
+(Instrument: Minimal Bass and Drums, Clean Guitar picking)
+「あけおめ」って うった あとに
+はでな すたんぷを みっつ ならべた
+きのうの けんか なんて
+なかった ことに する ための
+からふるな ばりけーど
+
+[Pre-Chorus]
+(Vocal: Legato, Building Tension, Slight Raspiness)
+(Instrument: Piano Arpeggio speeds up, Strings Swell)
+そうしん ぼたんの うえで
+ゆびが ずっと いったり きたり
+まよって いる あいだに
+(Short Pause - Music drop)
+みぎうえの でんち まーくが あかく かわった
+
+[Chorus 1]
+(Vocal: Explosive Power, Desperate Belting, Raspy High Notes)
+(Instrument: Full Band, Overdriven Guitar, Crashing Cymbals)
+のこり ご ぱーせんと の いのち
+ながすぎる いいわけを まだ かかえてる
+この でんぱに のせようと して
+ためらって いる あいだに
+じかん だけが すぎていく
+
+[Interlude]
+(Math Rock Style - Fast & Technical Guitar Tapping Solo)
+(Groovy Slap Bass line)
+
+[Verse 2]
+(Vocal: Calm but shaky, Melancholic Whisper)
+(Instrument: Piano and Drum Rimshot only)
+つめたい べっどの なかで
+くだらない いじを はっていた
+きみの いない しずけさが
+こんなに こわい なんて
+しりたく なかったよ
+
+[Pre-Chorus 2]
+(Vocal: Voice starts to crack, Urgent)
+(Instrument: Kick Drum pattern becomes Heartbeat-like)
+に ぱーせんと が てんめつ する
+あせる ほどに ゆびが ふるえて
+がめんの あかり だけが
+わたしの い場所を てらしてる
+
+[Chorus 2]
+(Vocal: Maximum Emotion, Crying texture, Powerful Anthem)
+のこり いち ぱーせんと の きせき
+かっこわるい ぷらいどは かなぐりすてて
+ただの わたしに もどる じかん
+ばっくすぺーすを おしつづけた
+ほんとうの こころ だけ のこす
+
+[Guitar Solo]
+(Emotional Melodic Shredding, Soaring high notes)
+(Orchestral Strings backing)
+
+[Bridge]
+(Instrument: Sudden Drop to Silence, Only soft Piano)
+(Vocal: Breathless, almost speaking)
+がめんが くらくなる
+しょうでんりょく もーどの くろい かがみに
+なきそうな わたしの かお
+(Instrument: Drum Roll Build-up, Crescendo)
+いそげ、 いそげ、 ぜろに なるまえに
+
+[Outro]
+(Music Stops Abruptly - Dead Silence)
+(Vocal: Acapella, Raw Whisper)
+ぜんぶ けして、 のこった いちぎょう
+そうしん かんりょうと どうじに
+せかいが ぷつんと おちたけど
+
+(Silence for 2 seconds)
+
+(Soft, Regretful Tone)
+きみに とどいたかな
+「ごめん、 ことしも そばに いて」
+```
 
 **COVER (skin/final)** · `cover` · model v5 · key — · bpm — · ▶3 ♥0 · id `a26f626c`
 

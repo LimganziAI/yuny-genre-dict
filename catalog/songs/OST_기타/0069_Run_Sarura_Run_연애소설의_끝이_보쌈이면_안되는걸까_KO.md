@@ -6,47 +6,37 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `mashup_condition` · model v5.5 · key — · bpm — · ▶3 ♥1 👍liked · id `00a278cf`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶7 ♥1 👍liked · id `5d882bd1`
 
 *Style/Prompt (tags):*
 ```
-high-speed modern J-pop funk rock fusion 70 + light breakbeat texture 15 + MJ pop 15, BPM 156 locked, Key A major, chromatic mediant A-F-D-E, brilliant clean overdrive guitars L40/R40, glassy synth arpeggios, crisp 16th funk drum groove forward, fast DnB breakbeat pushed back sub-layer, nimble slap bass mono center sidechain-linked, heroic rising brass stabs, extremely high-pitched sassy nasal female soprano C4-F5 Korean vocal forward center, sweet light airy delivery raspy phrase endings, agile rhythmic crisp diction, De-esser 8kHz, hz separation bass 80-200Hz clear, vocal hi-pass 150Hz, pristine 2024 studio mix, punchy transients 5-10kHz, explosive finale
+Mrs. GREEN APPLE-Ao to Natsu-style summer rock 50 + fast DnB breakbeat energy 30 + MJ-style funk pop 20, BPM 156, Key A major, chromatic mediant A-F-D-E rollercoaster drop, fast DnB double drum kit breakbeat pattern, nimble slap bass MJ-style groove, clean acoustic guitar layered with overdrive power chords, heroic rising brass stabs IV-V ascending chain, extremely high-pitched sassy nasal female soprano C4-F5 Korean vocal, sweet light airy funk rock delivery with raspy edge on phrase endings only, agile rhythmic crisp diction, vocal forward center, pristine modern 2024 studio clarity, explosive bouncy b-boy battle energy, punchy transients crisp high-end 5-10kHz
 ```
 
 *Lyrics+cues:*
 ```
 [Intro: Instrumental 8 bars]
-[De-esser: 8kHz]
-[Hz separation: bass 80-200Hz clear]
-[Sidechain: kick-bass linked]
-[Hi-pass: vocal 150Hz below cut]
 [Brass: heroic rising stabs with chromatic guitar drop]
-[Synth: glassy arpeggios L55/R55 sparkling wide]
-[Singing: explosive high-speed J-pop rock energy, vocal clearly forward center]
+[Singing: explosive summer rock energy, fast DnB drums kicking in]
 
 [Verse 1]
-[Singing: sweet sassy nasal tone with agile rhythmic delivery, vocal forward center]
+[Singing: sweet sassy nasal tone with agile rhythmic delivery, vocal forward]
 [Energy: Minimal, stripped back]
 연애소설 첫 페이지 같은 너
 햇살이 부서지는 투명한 눈동자
 내가 무슨 말을 해도 예쁘게만 웃어
 속마음은 모르는 척, 넌 또 웃지
-[Instrumental Fill: 1 bar, glassy synth stab]
+[Instrumental Fill: 1 bar]
 
 카페 창가 두 뼘 거리 앉아서
 아이스 아메리카노 빨대 돌리며
 오늘 날씨 참 좋다, 그런 말만
 내 마음은 벌써 폭풍전야야
-[Instrumental Fill: 1 bar, light sub-layer drum fill]
+[Instrumental Fill: 1 bar]
 
 [Pre-Chorus 1]
-[Singing: breathless rising tension, sassy nasal edge intensifying, vocal forward center]
+[Singing: breathless rising tension, sassy nasal edge intensifying, vocal forward]
 [Brass: heroic rising stabs IV-V ascending]
-[Synth: arpeggios intensifying L55/R55]
 [Energy: Building]
 닿을 듯 말 듯한 네 손끝이
 자꾸 내 세상을 흔들어놔
@@ -54,80 +44,69 @@ high-speed modern J-pop funk rock fusion 70 + light breakbeat texture 15 + MJ po
 내 감정은 이미 달아올랐어
 
 [Chorus 1]
-[Singing: explosive funk rock energy, extremely high-pitched sassy nasal peaks, vocal cutting through mix]
+[Singing: explosive funk rock energy, extremely high-pitched sassy nasal peaks, vocal forward]
 [Energy: Explosive][Full Mix]
-[Synth: glassy arpeggios L55/R55 full sparkle]
-[Brass: heroic stabs on downbeats]
-[Backing Vocals: L35/R35 harmonies]
 여우비처럼 다가갈 거야
 투명한 벽을 살짝 넘어서
 네 미소를 독차지할 거야
 내 마음 좀 알아봐, 제발
 
-그 무관심을 흔들어 볼거야
+그 무관심을 흔들어볼 거야
 반듯한 글자들 헝클어뜨려
 숨겨둔 진심 읽어줄래
 눈치 없는 너를 깨워볼게
 
 [Instrumental Break: 8 bars]
-[Instrumental: crisp 16th funk drum groove, nimble slap bass, glassy synth stabs]
-[Energy: Maximum groove, beat-killing section]
+[Instrumental: fast DnB breakbeat and nimble slap bass groove, b-boy battle feel]
 
 [Verse 2]
-[Singing: slightly more restless, sassy nasal groove bouncing, vocal forward center]
+[Singing: slightly more restless, sassy nasal groove bouncing, vocal forward]
 [Energy: Minimal, stripped back]
 도서관 조용한 네 옆자리
 연필 굴리는 소리만 또각또각
 책장 넘기는 네 하얀 손가락이
 내 머릿속을 어지럽게 하고
-[Instrumental Fill: 1 bar, synth stab]
+[Instrumental Fill: 1 bar]
 
 집까지 데려다줄까, 한마디면
 이 여름이 조금 달라질 텐데
-넌 먼저 간다며 손을 흔들어
-예쁜 단어들로 버티기엔 너무 어려워
-[Instrumental Fill: 1 bar, rising synth]
+넌 또 괜찮다며 고개만 저어
+예쁜 단어로 버티기엔 너무 어려워
+[Instrumental Fill: 1 bar]
 
 [Pre-Chorus 2]
-[Singing: urgency rising, sassy nasal pushing harder, vocal forward center]
+[Singing: urgency rising, sassy nasal pushing harder, vocal forward]
 [Brass: heroic rising stabs building harder]
-[Synth: arpeggios rapid 16th surge L55/R55]
 [Energy: Building]
-이 전개는 전부 네 탓이야
+이 더위는 전부 네 탓이야
 눈치라는 게 정말 없어?
 조심스런 문장으로 맴돌기엔
 더이상 감당하기 어려워
 
 [Chorus 2]
-[Singing: restrained start, gradually pushing energy up, sassy nasal airy growls]
-[Energy: Holding back, then building to full mix]
-[Backing Vocals: L40/R40 wider harmonies coming in gradually]
-[Synth: glassy arpeggios building sparkle]
-먹구름이 몰려오고 있어
-내 인내심도 무너지고 있어
-무심한 네 태도는 참기 어려워
+[Singing: escalated funk rock energy, maximum sassy nasal airy growls, vocal forward]
+[Energy: Explosive][Full Mix]
+먹구름처럼 몰려오고 있어
+이 경계선이 무너지고 있어
+무심한 네 태도에 틈이 생겼어
 아직도 모르겠어, 정말?
 
-네 앞으로 다가가고 있어
+네 곁으로 파고들고 있어
 반듯한 활자들이 흔들리고 있어
 밑줄 친 내 마음이 번져가고 있어
-둔탱이 너, 이제 슬슬 눈치채
+얄미운 너, 이제 슬슬 눈치채
 
 [Bridge]
-[Singing: high tension breathless restraint, extreme emotional peak, dry close-mic]
-[Energy: Tense, stripping back completely]
-[Electric Guitar: single clean notes only fading out]
+[Singing: sudden drop to intimate whisper, literary turning point]
+[Energy: Dropping][Stripped Back]
 얌전히 밑줄만 치는 건 여기까지야
 [Sudden Absolute Silence: 1 second]
-[Spoken Word: intense close-mic presence, raised energy, like ink piercing paper]
+[Spoken Word: quiet but certain, like ink touching paper]
 이 페이지부턴 내가 쓸 거야.
 
 [Final Chorus]
-[Singing: extreme high register belting, octave-up illusion, ultimate funk rock explosion, maximum sassy nasal]
-[Energy: Overdrive][Full Mix]
-[Backing Vocals: L50/R50 maximum spread gang harmonies]
-[Synth: glassy arpeggios soaring maximum sparkle]
-[Brass: heroic ascending stabs full power]
+[Singing: ultimate funk rock explosion, maximum extremely high-pitched sassy nasal, vocal dominant]
+[Energy: Maximum][Full Mix]
 폭풍처럼 휘몰아칠 거야
 이 거리감 부숴버릴 거고
 네 입술도 박살 낼 거야
@@ -139,7 +118,8 @@ high-speed modern J-pop funk rock fusion 70 + light breakbeat texture 15 + MJ po
 얄미운 너, 절대 도망 못 가
 
 [Outro: Instrumental finale only]
-[Instrumental: explosive high-speed J-pop rock finale with heroic brass, crashing cymbals, glassy synth fade, triumphant fade out]
-[Remaster: Subtle]
+[Instrumental: explosive summer rock finale with heroic brass, crashing cymbals, triumphant fade out]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

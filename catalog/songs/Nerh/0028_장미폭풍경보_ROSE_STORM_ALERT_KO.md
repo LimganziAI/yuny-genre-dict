@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶2 ♥1 👍liked · id `e1d8947c`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶2 ♥1 👍liked · id `e1d8947c`
 
 *Style/Prompt (tags):*
 ```
@@ -113,4 +109,6 @@ Modern hyper-syncopated high-energy K-pop crossover, 142 BPM, E major bright sca
 이제 시작이야 너는
 [Sudden absolute stop]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

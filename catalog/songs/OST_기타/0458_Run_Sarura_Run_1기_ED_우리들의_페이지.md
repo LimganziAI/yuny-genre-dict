@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v4.5+ · key — · bpm — · ▶1 ♥0 · id `c9146d4a`
+**CREATE (bone)** · `create` · model v4.5+ · key — · bpm — · ▶1 ♥0 · id `c9146d4a`
 
 *Style/Prompt (tags):*
 ```
@@ -78,4 +74,6 @@ A hyper-energetic and incredibly catchy, modern J-Pop / Orchestral Pop track, in
 오늘의 페이지는 여기까지
 내일은 어떤 색일까? 너와 함께, Good night.
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `5b99b1b4`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `5b99b1b4`
 
 *Style/Prompt (tags):*
 ```
@@ -119,4 +115,6 @@ Ado-Usseewa-style J-rock with ONE OK ROCK energy and anime opening intensity, 60
 [Outro: Full band driving, dual guitar unison finally resolved, gradual fade]
 [Singing: satisfied but guilty wordless hum, defeated breathing]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

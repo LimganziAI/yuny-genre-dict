@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key — · bpm — · ▶3 ♥0 · id `c982573c`
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶3 ♥0 · id `c982573c`
 
 *Style/Prompt (tags):*
 ```
@@ -111,4 +107,6 @@ Spring belongs to one and all!
 [Instrumental: Triumphant brass fanfare + 4-step march fade, 8 bars]
 [Ad-lib: Welcome spring! Here we stay! Ow!]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

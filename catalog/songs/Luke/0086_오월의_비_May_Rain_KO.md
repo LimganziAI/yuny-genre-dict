@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `ea11d4c1`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶1 ♥0 · id `ea11d4c1`
 
 *Style/Prompt (tags):*
 ```
@@ -109,4 +105,6 @@ dynamic contrast bright chords over dark aggressive bass
 [Instrumental: Single acoustic chord rings out]
 [Sudden End]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

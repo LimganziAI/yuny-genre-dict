@@ -116,32 +116,26 @@
 
 
 
-### §2.6. ★신규 캐릭터 (카탈로그 발굴 — 실사용 근거 기반, seed 확정 필요)
-캐탈로그에서 발견됐으나 기존 23 시드에 없던 캐릭터. 아래는 *실사용 tags 추출 근거*이며, 운영자 확정 후 정식 [VOICE] seed로 승격.
+### §2.6. ★신규 캐릭터 (카탈로그 발굴 — 운영자 확정 완료 2026-06-15)
+캐탈로그에서 발견된 신규 캐릭터. 아래 4명은 운영자 확정 — 실사용 tags 근거 기반 [VOICE] seed. (김갑수·하더는 캐릭터 미발전으로 팔레트 제외 — 곡은 catalog에 잔류.)
 
-**Amy/에이미** — (잠정) `bright airy summer dance-pop, princess fairytale crystalline, high airy soprano, sweet, not warm` · 📊 7곡 · 음역 A3-E5(1)
+**Amy/에이미** ✅ — `bright airy summer dance-pop, princess fairytale crystalline, high airy soprano, sweet, not warm` · 📊 7곡 · 음역 A3-E5
   · 빈출 근거: bright airy summer dance-pop; princess fairytale crystalline; high airy soprano; sweet; not warm; glassy fairytale hook
-  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+  · 작품군: "Run Sarura Run!" (Bellona·Raiza와 트리오)
 
-**Bellona/벨로나** — (잠정) `orchestral hybrid rock, gritty, powerful belting), 5-layer vocals: lead f2 2-4khz center dominant nasal groovy, high harmony 3-4khz hard-l 60% bright` · 📊 6곡 · 음역 표기없음
-  · 빈출 근거: orchestral hybrid rock; gritty; powerful belting); 5-layer vocals: lead f2 2-4khz center dominant nasal groovy; high harmony 3-4khz hard-l 60% bright; all duck 2-4khz vocals forward clear
-  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+**Bellona/벨로나** ✅ — `orchestral hybrid rock, gritty, powerful belting, lead vocal 2-4kHz center dominant nasal groovy, high harmony 3-4kHz bright` · 📊 6곡 · 음역 표기없음(추후 보강)
+  · 빈출 근거: orchestral hybrid rock; gritty; powerful belting; 5-layer vocals lead 2-4kHz center dominant nasal groovy; high harmony 3-4kHz hard-L 60% bright; all duck 2-4kHz vocals forward clear
+  · 작품군: "Run Sarura Run!" (Amy·Raiza와 트리오)
 
-**Silva/실바** — (잠정) `dark orchestral, whispering asmr, asmr whisper` · 📊 5곡 · 음역 표기없음
-  · 빈출 근거: dark orchestral; whispering asmr; asmr whisper
-  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+**Silva/실바** ✅ — `dark orchestral, whispering ASMR, intimate close-mic breathy` · 📊 5곡 · 음역 표기없음(추후 보강)
+  · 빈출 근거: dark orchestral; whispering ASMR; ASMR whisper
+  · 비고: ASMR/속삭임 결이 핵심 — 음역·멀티모드는 곡 추가 시 보강
 
-**Riza/라이자** — (잠정) `(추출 부족 — 곡 자료 추가 필요)` · 📊 3곡 · 음역 표기없음
-  · 빈출 근거: 
-  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+**Raiza/라이자** ✅ — `(보컬 추출 부족 — 곡 자료 추가 필요)` · 📊 3곡 (JP 'あと一歩' · 트리오 'Winter Rush' · '네시 반 담장 너머') · 음역 표기없음
+  · 정체성 확정: ライザ/라이자 — 작품군 "Run Sarura Run!" (Amy·Bellona와 트리오)
+  · ⚠️ 보컬 시드 추출 부족 — 솔로곡 태그 추가 익스포트 시 [VOICE] 보강 필요
 
-**Kimgapsu/김갑수** — (잠정) `rhodes piano 500-1500hz hard-l jazz warm preserve, all duck 2-4khz completely vocals forward crystal clear` · 📊 2곡 · 음역 표기없음
-  · 빈출 근거: rhodes piano 500-1500hz hard-l jazz warm preserve; all duck 2-4khz completely vocals forward crystal clear
-  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
-
-**Harder/하더** — (잠정) `(추출 부족 — 곡 자료 추가 필요)` · 📊 1곡 · 음역 표기없음
-  · 빈출 근거: 
-  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+> **제외 (팔레트 미등재):** 김갑수(2곡 · "Derville P.I.D." — 캐릭터 미발전, 운영자 판단), 하더(1곡 · "Run Sarura Run!" — 단역, 추후 곡 모이면 추가). 두 캐릭터의 곡은 catalog에 그대로 보존됨.
 
 ## §2.5. ★CROSS-CHARACTER 구별화 매트릭스 (서로 절대 안 헷갈리게 — 고유 식별자)
 개별 시드는 §2에 있음. 문제는 *비슷한 캐릭터끼리 블러*되는 것. 아래 클러스터는 충돌 위험군 — 각자 **고유 식별자

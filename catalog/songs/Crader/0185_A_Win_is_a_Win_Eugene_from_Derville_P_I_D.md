@@ -6,7 +6,91 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶1 ♥0 · id `68ee45b5`
+
+*Style/Prompt (tags):*
+```
+BPM162 high-energy melodic indie pop rock Mrs.GREENAPPLE youthful bounce complex chord progressions syncopated drums fast 16th hi-hats intro instrumental break included. Punchy kick 70-90Hz tight melodic slap bass 100-150Hz playful runs light sidechain clean no muddy 200-400Hz. Bright staccato piano 800-1.5kHz rhythmic bounce ducking 2-4kHz completely clean funky guitar wide stereo L/R 1-2kHz supporting vocals. Male youthful light tenor boyish tone thin bright voice Mrs.GREENAPPLE style conversational melodic delivery laid-back singing effortless flow natural falsetto transitions crisp articulate English diction syllable-matched phrasing 5-channel layering all sections main center tight double high harmony 70%L/R octave support forward mix 2-4kHz dominant never shouting never musical theatre. Fast hi-hats 16th open/close 8-10kHz crash cymbals 10-15kHz sparkle 12kHz+. Digital contemporary 2025 clean bright mix wide stereo vocal absolutely dominant 2-4kHz clean separation
+```
+
+*Lyrics+cues:*
+```
+[Intro]
+
+[Verse 1]
+My co-founder's screaming
+"The servers just crashed down!"
+I was deep in meditation
+Finding my zen you know
+Sent some positive energy
+Through the universe
+You felt it right?
+My spiritual support system!
+
+You guys pulled three all-nighters
+Tears and coffee
+Amazing! Incredible!  
+That's team building right there!
+But honestly?
+You grew stronger without me hovering
+See? Everything happens for a reason!
+
+[Pre-Chorus]
+Wait why those faces?
+The sun is shining we're all breathing
+What more could you possibly want?
+Gratitude people!
+
+[Chorus]
+But it worked out right? RIGHT?!
+(Servers running!) Lessons learned!
+What I was doing? That's just details baby
+(A win is a win!) End of story!
+Got complaints? I don't think so!
+(Cheers to us!) We're an incredible team!
+
+[Instrumental Break]
+
+[Verse 2]
+Finance team's panicking
+"Budget's completely gone!"
+Can't tell them I YOLOed on crypto
+Obviously
+So I pitched
+"Lean Startup methodology!"
+
+Look at you all
+So focused and hungry now
+Working with those determined
+Survivor eyes
+That raw passion!
+I knew you had it in you!
+
+[Bridge]
+Hold up why the attitude?
+I provide vision
+You provide execution
+It's called synergy
+Look it up!
+This is how unicorns are born!
+
+[Final Chorus]
+Anyway! It worked out right? RIGHT?!
+(World keeps spinning!) We're all alive!
+Luck favors the prepared they say!
+(All's well!) We're a fantastic team!
+Equity? We got equity in experience!
+(Same time next week!) Team!
+
+[Outro]
+Oh right that new bar on the corner?
+The beautiful partner there—
+I mean new staff member
+Incredibly skilled in business development
+Got a crucial meeting gotta run—
+Don't wait up! You got this!
+(You always do!)
+```
 
 **COVER (skin/final)** · `upsample` · model v5 · key — · bpm — · ▶1 ♥0 · id `190ea716`
 

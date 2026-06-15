@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key — · bpm — · ▶2 ♥1 👍liked · id `d7f87e6d`
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶2 ♥1 👍liked · id `d7f87e6d`
 
 *Style/Prompt (tags):*
 ```
@@ -105,4 +101,6 @@ See you Sunday if I roam
 Same old game, same old win
 Drop a coin, let it begin
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

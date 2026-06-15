@@ -6,27 +6,24 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `808b63d1`
+**CREATE (bone)** · `create` · model v5.5 · key — · bpm — · ▶2 ♥0 · id `6aefc607`
 
 *Style/Prompt (tags):*
 ```
-Heavy modern soul-stomp, 2026, 94 BPM slow and crushing, C minor
-open fifth chords no third, dark grounded. Female alto, deep
-chest-heavy voice, thick and weighted, smoke-and-gravel low tone,
-pressed down never light. Verses subterranean low almost growled.
-Chorus stays low and heavy, chest voice pushing down not up,
-massive not bright. Slow crushing martial kick like a deep
-heartbeat, long heavy decay. Generous instrumental space — kick
-intro, instrumental builds, mid break, drum break. Heavy
-hand-stomp, low pounding piano on open fifths, thick low end with
-body. Huge dynamic range, verses sparse and dark, chorus
-crushing. Mantra hook, short heavy repeated lines. Bridge strips
-to heartbeat kick and breath then rebuilds heavier. Mood: heavy
-held breath before the step, dark resolve.
+Modern soul-stomp anthem, 2026 production, 102 BPM, C minor with
+open fifth chords no third, raw and grounded. Female alto lead,
+breathy yet grounded, smoke-and-silk tone. Verses low and
+pressed-down, restrained. Chorus opens into a steady firm belt,
+controlled power, not screaming. Stomping martial kick like a
+heartbeat, slow and heavy. Generous instrumental space — an 8-bar
+heartbeat-kick intro, instrumental build sections with no vocal,
+a mid-song instrumental break, a drum break before the final
+chorus. Hand-stomp percussion, pounding piano on open fifths,
+deep low end. Huge dynamic range, verses nearly bare, chorus full
+and overwhelming. Mantra-style hook, short firm repeated lines.
+Bridge strips to heartbeat kick and breath then rebuilds. Final
+chorus biggest. Mood: the held breath before stepping forward,
+resolve hardening, hot and grounded.
 ```
 
 *Lyrics+cues:*
@@ -116,4 +113,6 @@ held breath before the step, dark resolve.
 거기 발 *맞춰
 [Heartbeat kick, slow, to silence — no vocal]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 

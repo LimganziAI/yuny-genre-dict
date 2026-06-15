@@ -6,11 +6,7 @@
 
 ---
 
-**CREATE (bone):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
-
-**MATCHED CLIP** · `create` · model v5 · key — · bpm — · ▶0 ♥0 · id `9a2fde1d`
+**CREATE (bone)** · `create` · model v5 · key — · bpm — · ▶0 ♥0 · id `9a2fde1d`
 
 *Style/Prompt (tags):*
 ```
@@ -100,4 +96,6 @@ You made it home
 [Outro]
 [Instrumental Only: 25 seconds - Electric guitar melody over acoustic, warm fade]
 ```
+
+**COVER (skin/final):** (export에 없음 — 원본 클립이 메타데이터 덤프에 미포함)
 
