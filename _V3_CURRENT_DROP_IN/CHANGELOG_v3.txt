@@ -1,0 +1,58 @@
+# CHANGELOG — YUNY SUNO OS
+# (단일 이력 보관소. 지침 본문엔 "구 규약 폐기/[SUPERSEDED]" 화석 금지 — 이력은 여기로.)
+
+================================================================
+## v3.0 "GOAL CHAIN" — 2026-06-15
+================================================================
+요지: v2.9(Lyric Sovereignty) 베이스 유지 + ChatGPT/YUNY의 GOAL CHAIN 제작-사슬 런타임을
+Claude-네이티브로 흡수(압축 해제). 표면 출력 8필드 불변, 내부 검증 강화. 룰 C-1~141 전부 보존, C-142~152 추가.
+
+### 교체
+- `00_SYSTEM_INSTRUCTION_for_YUNY.txt`: 50,738 → **49,199자** (Python len 실측).
+  - 7-블록 출력 → **8-필드** 전 구간 전환 (슬라이더 CREATE/COVER 분리).
+  - §0.5(정직/완결성)·§0.6(제작 스파인 PASS 0-8)·§0.7(확장-우선) 신설.
+  - 출력 체크리스트 14항목으로 확장(라우트 분류·완결성 라벨·카운슬·G4/G5·8필드 정합).
+  - 섹션 A-G 보존하되 §1(+G4/G5/FINAL RECORD/Bone-Skin-Finish/8필드 슬라이더)·§9(+Universal Lyric→33)·
+    §12(→8필드 출력)·§15/§18/D(라우팅+31-34) 편집.
+  - 부록 C-1~152 매핑표 갱신.
+
+### 신규 지식 파일 (4개, 소계 25,498자 실측)
+- `31_PRODUCTION_LOOP_AND_COUNCIL.md` (6,931): PASS 0-8 사다리 + 멀티롤 7석 카운슬 + FINAL RECORD LAW + 완결성 게이트.
+- `32_RENDER_SIMULATION_G4_G5.md` (6,534): CREATE 소스 시뮬(G4)·COVER 최종 시뮬(G5) + 렌더 실패 카탈로그 15행 + Pairing Risk + Prompt/Studio 경계. 전부 [가설] 라벨.
+- `33_UNIVERSAL_LYRIC_FUNCTION_LAW.md` (6,392): lyric_function_lock YAML + 8-게이트 + 어휘부착 6패턴 + Josa/어미 표 + 장르 레인 9종(JOB/RULE/FAILURE) + 훅 기능 메뉴 + 섹션 완성 맵 + 일/영/바일링구얼 + 모드 다원주의 8종 + 5000-runway.
+- `34_HONESTY_FINALITY_AND_ROUTE.md` (5,641): 정직/완결성 규율 + Self-Test Law + 라우트 13모드 표 + 확장-우선 + Claude 고유 이점 + 외부 연동 현실(GitHub/MCP/Cowork 직답) + Case/Package Law.
+- `35_CHARACTER_VOCAL_PALETTE.md` (신규): 캐릭터 23종 [VOICE] 통합(INDEX + seed + 장르존 + EXCL + 멀티모드). ★캐릭터 정의가 404 GitHub 레포에만 있어 캐릭터 불러오기가 깨져 있던 것을 Project 상주로 수리. 이름=라우팅키·Suno 필드 진입 금지·디스크립터 변환.
+
+### 유지 (변경 없음)
+- `02`~`30` (크래프트 풀바디), `99`/`99z` (금고·로그). 지침이 이쪽으로 라우팅.
+
+### 신규 룰
+- C-142: 8-필드 출력 확정 (CREATE Audio Influence="—", COVER 수치).
+- C-143: 정직/완결성 — 첫 8필드 = FIRST EXECUTABLE DRAFT.
+- C-144: 제작 루프 PASS 0-8.
+- C-145: 멀티롤 7석 카운슬.
+- C-146: 렌더 시뮬 G4/G5 + 실패 카탈로그.
+- C-147: Universal Lyric Function Law (8-게이트).
+- C-148: FINAL RECORD LAW (진짜 레코드 = COVER 결과, 청취 평결 우선).
+- C-149: 확장-우선 (크래프트 자유↑, 품질 엄격↑).
+- C-150: 라우트-퍼스트 13모드.
+- C-151: Case/Package Law (3폴더 핸드오프, commit-ready).
+- C-152: GitHub/MCP/Cowork 연동 현실.
+- C-158: Suno 오디오 엔지니어링(파일 38) — 믹스제어 어휘·Suno 3대결핍 처방·머디픽스·장르별음질·v5.5 거동(era편향·instrumental끝) + 외부 시스템 이식(Album 코히전 등). 현행 Suno 엔지니어링 web 검증.
+- C-157: 현대 편곡 엔진(파일 37) — 안티-올드 화성(확장/차용/반음 서술·코드기호금지)·멜로디(당김음·말맛·의외도약)·악기(구체텍스처·하이브리드·2026팔레트). Suno 평균회귀 차단 — 현행 프로덕션 web 검증.
+- C-156: 보컬디렉터급 큐 + Suno 실현(discrete RENDERS 태그 우선·*word* 단독 금지·최강라인 first) + EXCLUDE 고신호 군살 차단 — 라이브 테스트+현행 Suno web 검증.
+- C-155: 언어·딜리버리 글자수 보정(한국어 char 밴드 과대계상→패딩 금지·완결성 판정 / 대화체·포크 음절 +1-2 허용) — 라이브 테스트 발견.
+- C-154: 출력 계약 단일 기계 게이트(수노 양식·큐·품질 LINT).
+- C-153: 캐릭터 보컬 팔레트 23종 in-Project化 (404 무관·이름=라우팅키·[VOICE]만·디스크립터 변환·멀티모드).
+
+### 외부 연동 검증 (2026-06-15 bash)
+- `LimganziAI/yuny-genre-dict` = LIVE (HTTP 200) → web_fetch 가능.
+- `playwithlawkr/yuny-suno-os` = 404 (main·master) → public 푸시 필요. 그 전 케이스는 99/99z.
+- MCP 연결(Canva/KOREAN LAW) = 음악 무용. 음악 전용 MCP 없음. Cowork 이 용도 불필요.
+- Claude는 GitHub 쓰기 불가(읽기만) → 갱신은 commit-ready 블록 + 운영자 커밋.
+
+### 설계 원칙 (이 버전에서 확정)
+- 검증은 내부, 표면은 산출물(제0원칙 계승). 카운슬·시뮬 결과를 표면에 풀어쓰지 않음.
+- 버전 관리 분리: 본 지침=현재 동작만. 이력=이 CHANGELOG 단일.
+- 글자수 전부 도구 실측(Python len/wc -m). 추정 금지.
+- 파일은 정확한 원본 파일명, 풀바디 교체(파편 금지).
