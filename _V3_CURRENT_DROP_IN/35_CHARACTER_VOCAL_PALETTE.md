@@ -1,5 +1,6 @@
-# 35. CHARACTER VOCAL PALETTE — 23 캐릭터 보이스 (Project 상주, GitHub 404 무관)
-# VERSION: v1.0 (2026-06-15) — 이력은 CHANGELOG.txt
+# 35. CHARACTER VOCAL PALETTE — 29 캐릭터 보이스 (Project 상주, GitHub 404 무관)
+# VERSION: v1.1 (2026-06-15) — 이력은 CHANGELOG.txt
+#   v1.1: 2026-06-11 Suno/YouTube 카탈로그(365곡 복원) 실사용 근거를 각 시드에 📊로 보강 + 신규 캐릭터 §2.6 추가
 # Scope: §6(보컬 디렉션)·29(화자 엔진)의 캐릭터 데이터층. 이름 호출 시 *여기서* 보이스를 불러온다.
 #        ★이 파일이 Project에 있으므로 캐릭터 불러오기는 GitHub(yuny-suno-os 404) 없이도 작동한다.
 # 발동: 운영자가 캐릭터명/별칭(루크/레베카/카샤스/봉남/타투…)을 호출할 때 → INDEX 매칭 → 해당 [VOICE] 적재.
@@ -41,54 +42,106 @@
 ## §2. [VOICE] SEEDS — Suno 디스크립터로 박을 실제 문구 (이름 대신 이것)
 
 **루크/Luke** — `female high-pitched clear bright pop vocal, clean youthful upper register, light idol-adjacent clarity, straight melodic phrasing` · 맑은 고음 미성, 곡 따라 EDM topline/발라드/청량 팝 변형 · EXCL: thick chest belt, raspy rock vocal, mature diva tone, dark smoky delivery
+  · 📊 실사용 27곡 — 음역 C4-E5(1) · 빈출: clear; : high-pitched; sweet; bright; high-pitched
 
 **마리/Marie** — `female bright powerful husky J-rock punk vocal, slightly raspy edge, raw heartfelt emotion, passionate desperate chorus lift, bittersweet rock anthem delivery` · 후렴에서 후회·답답함 밀어붙임, 날 선 감정(두꺼운 디바 X) · EXCL: polished idol sweetness, operatic belt, metal growl, soft breathy-only
+  · 📊 실사용 48곡 — 음역 A3-E5(2), B3-F5(1) · 빈출: sweet; the female vocal must be clear; gentle delivery with quiet; the delivery is soft and gentle; clear diction
 
 **네르/Nerh** — `female mid-high piercing rock vocal, powerful straight projection, bright chest-mix belt, thin-to-medium body, open-throat release, phrase endings feather into airy falsetto` · 앞공명 직선, 끝만 가성/숨 · EXCL: thick diva belt, shout-scream, raspy harsh yell, idol nasal chant
+  · 📊 실사용 26곡 — 음역 A3-E5(1), B3-F5(1) · 빈출: clear; powerful; sweet; no falsetto; low-mid range
 
 **레베카/Rebecca** — `female high-pitched pure delicate breathy vocal, trembling fragile tone, close-mic intimacy, soft sustained endings` · 숨소리·취약함이 장점, 작은 호흡·긴 여운·가까운 마이크 · EXCL: strong punk attack, fast rap, thick low chest, brassy diva chorus
+  · 📊 실사용 20곡 — 음역 표기없음 · 빈출: warm; gentle; : high-pitched; delicate; airy
 
 **령/Ryeong** — `non-singing robot voice samples, glitch fragments, spectral whispers, rhythmic SFX, vocoder punctuation` · 메인 보컬 X, 리듬·효과음·글리치 이벤트용 · EXCL: full lead vocal, warm soul singing, natural acoustic realism
+  · 📊 실사용 18곡 — 음역 표기없음 · 빈출: sweet; the female vocal must be clear; the delivery is soft and gentle; high-pitched cute vocals; growling
 
 **체니/Chenny** — `female extreme high-pitched child-like rapid-fire punk rap, bratty shout-chant, comic chaos, sharp syllable attack` · 짧은 훅·말맛·과장 chaos 강, 긴 멜로디엔 조절 · EXCL: smooth adult R&B, slow elegant ballad, low monotone narration
+  · 📊 실사용 26곡 — 음역 C4-F5(3), B3-E5(1) · 빈출: cheeky; sassy; child-like; clear; explosive shouts
 
 **라이니/Laini** — `female high-pitched smooth seductive jazz R&B vocal, lazy glide, silky phrasing, smoky upper register, controlled vibrato` · 고음이나 힘 X 미끄러지듯 · EXCL: punk shout, child-like chant, robot FX, raw grunge rasp
+  · 📊 실사용 22곡 — 음역 C4-E5(1) · 빈출: seductive; smooth; clear; : high-pitched; :clear
 
 **세리카/Serica** — `female clear calm polite high-pitched vocal, composed diction, glassy tone, gentle controlled breath, elegant melodic restraint` · 정돈된 호흡·신비로운 거리감 · EXCL: messy punk energy, desperate scream, nasal comic delivery
+  · 📊 실사용 19곡 — 음역 B3-E5(1), C4-F5(1) · 빈출: clear; gentle; : high-pitched; breathy; warm
 
 **샐리/Sally** — `female high-pitched sassy nasal jazz-funk vocal, playful bends, cheeky phrasing, rhythmic talk-sing, bright groove attitude` · 비음 애교·넉살, 리듬 타고 말하듯 · EXCL: flat polite ballad, ethereal whisper-only, deep monotone male
+  · 📊 실사용 29곡 — 음역 F5-G5(2), E4-C6(1) · 빈출: sassy; sweet; nasal; orchestral hits; : high-pitched
 
 **테피/Tepi** — `female clear warm gentle soul pop vocal, honest midrange, soft smile tone, rounded vowels, comforting melodic phrasing` · 위로·온기·부드러운 open vowel · EXCL: cold robotic sample, abrasive punk rasp, screamed rock chorus
+  · 📊 실사용 18곡 — 음역 C4-E5(1) · 빈출: gentle; warm; vibe:warm; clear sections; gentle dynamic build
 
 **카샤스/Kashas** — `male mid-high scratchy melodic grunge sing-rap, laid-back groove, dry attitude, raspy hooks, loose rhythmic phrasing` · 츤데레 무심·껄렁, 선율과 랩 사이 · EXCL: clean boy-band pop, deep operatic rock, polite narration
+  · 📊 실사용 10곡 — 음역 표기없음 · 빈출: and gritty power chords; piercing screamed chorus; high-pitch emotional shouting; upbeat city pop mastered 132bpm energetic duet bright commercial; verse male focus then female focus clear switches
 
 **올레그/Oleg** — `male deep gruff powerful hard-rock vocal, heavy chest weight, controlled scream peaks, gravel texture, arena-sized aggression` · 샤우팅/포효, Suno 과하면 소음화 → peak 위치 제한 · EXCL: soft indie mumble, delicate falsetto lead, clean idol tone
+  · 📊 실사용 13곡 — 음역 A2-G4(1) · 빈출: (oleg):deep; **powerful rock vocal/screamer; ** **aggressive shouts; (walcott):high-pitched; orchestral hits
 
 **월콧/Walcott** — `male high-pitched extremely fast desperate rap, breathless urgency, clipped consonants, panic-drive flow, rap-rock compatible` · 절박·과호흡 에너지 · EXCL: slow crooner, warm acoustic ballad, smooth lounge
+  · 📊 실사용 26곡 — 음역 G3–D5(1), C3-G4(1) · 빈출: shouted group harmonies to create a massive wall of sound; : extreme high-pitched; child-like; rapid-fire punk-rap; staccato shouting
 
 **크래더/유진/Crader** — `male laid-back relaxed indie pop vocal, soft lazy diction, light nasal warmth, casual city-pop phrasing, underplayed emotion` · 힘 뺀 나른, 덜 부르는 감정선 · EXCL: screamed rock belt, hyperactive rap, dramatic musical theater
+  · 📊 실사용 32곡 — 음역 표기없음 · 빈출: bright; featuring a male vocalist with a clear; slightly raspy tenor voice; the mix is bright and clear; raspy indie tone
 
 **박봉남/Bongnam** — `female high-pitched sassy energetic pop-rap vocal, sharp bright tone, cheeky adlibs, fast comic phrasing, elastic hook delivery` · 깨방정·쌔끈·짧은 말맛 훅 · EXCL: solemn ambient vocal, deep male narration, fragile whisper ballad
+  · 📊 실사용 58곡 — 음역 A3-E5(1) · 빈출: sassy; sweet; deep; powerful; high-pitched
 
 **젠슨/Jensen** — `male calm deep monotone narration, dry analytical delivery, low close-mic voice, spoken interjections, minimal melody` · spoken bridge/intro narration/glitch break용 · EXCL: full melodic chorus, bright high pop lead, comic child-like rap
+  · 📊 실사용 16곡 — 음역 표기없음 · 빈출: shouted group harmonies to create a massive wall of sound; 4/4 with gentle half-time feel in verses; male mid-tenor warm light sung melodic delivery; soft falsetto stacks in chorus; stepwise conversational verses with gentle leaps on emotional words
 
 **현암/Hyeonam** — `male deep analytical taryeong-style rap, earthy Korean phrasing, rhythmic chant-singing, grounded low resonance, fusion gugak cadence` · 한국어 장단·어미·받침 살림 · EXCL: generic trap imitation, Western diva belting, thin idol nasal chant
+  · 📊 실사용 21곡 — 음역 표기없음 · 빈출: the female vocal must be clear; sweet; the delivery is soft and gentle; shouted group harmonies to create a massive wall of sound; ** comedic clash(sassy latin vs deadpan rap)
 
 **미첼/Mitchell** — `male sophisticated city-pop R&B vocal, high smooth chic tone OR husky late-night R&B variant, controlled cool delivery, polished groove` · 곡 따라 high smooth / husky R&B 택1 · EXCL: raw punk scream, comic rapid chant, folk-taryeong cadence
+  · 📊 실사용 24곡 — 음역 G3–D5(1) · 빈출: crystal clear; distinct sections:smooth jazz vs modern city pop/r&b; bittersweet; smooth transitions; vocals:v1(martina):mid-low
 
 **타투/Tatoo (멀티모드 — 여성, Sis Tatoo=같은 인물의 모드)** — 곡마다 모드 택1, 멜로디는 안 떨어뜨리고 보컬 색만:
+  · 📊 실사용 19곡 — 음역 표기없음 · 빈출: sassy; and low-energy voice; her delivery is almost monotone and spoken-like; with minimal vibrato; she must avoid high notes and emotional belting completely
 - Mode A 느와르: `female low-mid dry monotone rhythmic sing-rap, noir close-mic delivery, cool deadpan phrasing, dark jazz/trip-hop pocket, restrained intimate tone, tiny phrase-end grain`
 - Mode B 샤프하이: `female bright sharp dry soprano-to-high-mezzo vocal, cool chic deadpan delivery, biting clear Korean diction, dry close-mic tone, low-effort phrasing, melody remains fully sung and lifted`
 - Mode C 여린dry: `female light dry upper-mezzo/soprano tone, delicate but centered, close-mic unpolished edge, restrained Korean diction, minimal vibrato, soft phrase ends without whisper collapse`
 - ★주의: 낮은 느와르 싱잉랩도 *여성* 모드 — male 아님. EXCL(필요/드리프트 시): male vocal, chesty/thick low alto, heroic belt, cute idol aegyo, glossy sweet soprano, whisper-only, melody flattening, pitch collapse, robotic autotune
 
 **우나/Una** — `female delicate ethereal whisper vocal, fragile airy tone, dream-pop float, close breath texture, soft blurred consonants` · 공기처럼 떠야 함(강하게 치고 X) · EXCL: power belt, fast punk rap, deep gruff rock vocal
+  · 📊 실사용 15곡 — 음역 C4-E5(1) · 빈출: vocal: female whispering vocals; ethereal; falsetto high notes; ethereal shoegaze; breath texture 8khz hard-l 30% whisper
 
 **마르티나/Martina** — `female mid-low sexy smooth jazz Latin vocal, mature velvet tone, relaxed rhythmic sway, warm chest color, elegant phrasing` · 중저음 벨벳·리듬 스웨이 · EXCL: child-like high chant, robot glitch voice, punk scream
+  · 📊 실사용 20곡 — 음역 표기없음 · 빈출: deep; mid-low tone; husky & breathy whisper intro; powerful diva belting in chorus; vibrato
 
 **타라한/Tarahan** — `female high-pitched clear sweet quirky K-indie vocal, bright nasal sweetness, casual conversational phrasing, youthful acoustic charm` · 아티스트명 금지 → quirky bright K-indie timbre로 분해 · EXCL: mature Latin jazz, deep male narration, heavy metal scream
+  · 📊 실사용 11곡 — 음역 표기없음 · 빈출: breathy; bright; clear diction; clear and "kawaii" tone (girl next door vibe); powerful and energetic projection
 
 **웰링/Welling** — `male standard pop-rock vocal, adaptable midrange, clean melodic delivery, light grit on chorus, reliable lead tone` · 다장르 받쳐주는 기본형 · EXCL: extreme-scream-only, robot-narration-only, fragile-whisper-only
+  · 📊 실사용 10곡 — 음역 표기없음 · 빈출: delicate female vocalist; powerful melodic singing; part 1 (verse 1 only): ethereal gospel hymn; swelling string orchestra and a delicate; pure female soprano vocal
+
+
+
+### §2.6. ★신규 캐릭터 (카탈로그 발굴 — 실사용 근거 기반, seed 확정 필요)
+캐탈로그에서 발견됐으나 기존 23 시드에 없던 캐릭터. 아래는 *실사용 tags 추출 근거*이며, 운영자 확정 후 정식 [VOICE] seed로 승격.
+
+**Amy/에이미** — (잠정) `bright airy summer dance-pop, princess fairytale crystalline, high airy soprano, sweet, not warm` · 📊 7곡 · 음역 A3-E5(1)
+  · 빈출 근거: bright airy summer dance-pop; princess fairytale crystalline; high airy soprano; sweet; not warm; glassy fairytale hook
+  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+
+**Bellona/벨로나** — (잠정) `orchestral hybrid rock, gritty, powerful belting), 5-layer vocals: lead f2 2-4khz center dominant nasal groovy, high harmony 3-4khz hard-l 60% bright` · 📊 6곡 · 음역 표기없음
+  · 빈출 근거: orchestral hybrid rock; gritty; powerful belting); 5-layer vocals: lead f2 2-4khz center dominant nasal groovy; high harmony 3-4khz hard-l 60% bright; all duck 2-4khz vocals forward clear
+  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+
+**Silva/실바** — (잠정) `dark orchestral, whispering asmr, asmr whisper` · 📊 5곡 · 음역 표기없음
+  · 빈출 근거: dark orchestral; whispering asmr; asmr whisper
+  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+
+**Riza/라이자** — (잠정) `(추출 부족 — 곡 자료 추가 필요)` · 📊 3곡 · 음역 표기없음
+  · 빈출 근거: 
+  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+
+**Kimgapsu/김갑수** — (잠정) `rhodes piano 500-1500hz hard-l jazz warm preserve, all duck 2-4khz completely vocals forward crystal clear` · 📊 2곡 · 음역 표기없음
+  · 빈출 근거: rhodes piano 500-1500hz hard-l jazz warm preserve; all duck 2-4khz completely vocals forward crystal clear
+  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
+
+**Harder/하더** — (잠정) `(추출 부족 — 곡 자료 추가 필요)` · 📊 1곡 · 음역 표기없음
+  · 빈출 근거: 
+  · ⚠️ 정식 seed 확정 전 — 운영자 확인(정체성/EXCL/멀티모드 여부) 필요
 
 ## §2.5. ★CROSS-CHARACTER 구별화 매트릭스 (서로 절대 안 헷갈리게 — 고유 식별자)
 개별 시드는 §2에 있음. 문제는 *비슷한 캐릭터끼리 블러*되는 것. 아래 클러스터는 충돌 위험군 — 각자 **고유 식별자
